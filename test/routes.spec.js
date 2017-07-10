@@ -49,7 +49,6 @@ describe('API Routes', () => {
         res.should.have.status(200)
         res.should.be.json;
         res.body.length.should.equal(51)
-        console.log(res.body.length)
         done()
       })
     })
