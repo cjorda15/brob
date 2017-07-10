@@ -1,0 +1,17 @@
+{
+  "name": "brob",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha",
+    "start": "node killall -9 && nodemon server/index.js",
+    "lint": "jshint ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^3.4.2",
+    "webpack": "^3.1.0"
+  }
+}
