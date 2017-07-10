@@ -7,7 +7,7 @@ machine:
     DATABASE_URL: postgresql://ubuntu:@127.0.0.1:5432/circle_test
 
 deployment:
-  staging:
+  production:
     branch: master
     heroku:
-      appname: intense-taiga-19330 
+      appname: intense-taiga-19330
