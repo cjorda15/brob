@@ -15,6 +15,10 @@ app.use(bodyParser.json());
 
 app.set('port',process.env.PORT ||3000)
 
+app.get('/', (req,res) => {
+  res.status(200).send("Hello")
+})
+
 app.use('/api/v1', router)
 
 app.listen(app.get('port') , () => {
