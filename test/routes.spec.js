@@ -20,11 +20,39 @@ describe('Client Routes', () => {
   })
 
   it('should return 404 for route that doesnt exist', (done) => {
+   chai.request(server)
+    .get('/sad')
+    .end((err, res) => {
+      res.should.have.status(404)
+      done()
+    })
+  })
+})
+
+
+describe('API Routes', () => {
+
+  before((done) => {
+    knex.migrate.latest()
+    .then(() => {
+      knex.seed.run()
+    })
+    .then(() => {
+      done()
+    })
+  });
+
+  it('should return all of the categories', (done) => {
     chai.request(server)
-      .get('/sad')
+      .get('/api/v1/states')
       .end((err, res) => {
-        res.should.have.status(404)
+        res.should.have.status(200)
+        res.should.be.json;
+        res.body.length.should.equal(51)
+        console.log(res.body.length)
         done()
       })
     })
-  })
+
+
+})
