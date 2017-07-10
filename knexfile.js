@@ -11,7 +11,7 @@ module.exports = {
     useNullAsDefault: true
   },
 
-  development: {
+  production: {
     client: 'pg',
     connection: 'postgres://localhost/police',
     migrations: {
