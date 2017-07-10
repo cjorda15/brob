@@ -11,6 +11,18 @@ module.exports = {
     useNullAsDefault: true
   },
 
+  development: {
+      client: 'pg',
+      connection: 'postgres://localhost/police',
+      migrations: {
+        directory: './db/migrations'
+      },
+      seeds: {
+        directory: './db/seeds/dev'
+      },
+      useNullAsDefault: true
+    },
+
   production: {
     client: 'pg',
     connection: 'postgres://localhost/police',
