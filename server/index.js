@@ -24,3 +24,6 @@ app.use('/api/v1', router)
 app.listen(app.get('port') , () => {
   console.log("app is on port "+ app.get('port'))
 })
+
+
+module.exports = server
