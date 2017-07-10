@@ -3,8 +3,8 @@ const chai = require('chai')
 const should = chai.should()
 const chaiHttp = require('chai-http')
 const server = require('../server/index.js')
-const knex = require('../server/db/knex.js')
-const config = require('../server/knexfile.js')
+const knex = require('../db/knex.js')
+const config = require('../knexfile.js')
 
 chai.use(chaiHttp)
 
