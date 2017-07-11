@@ -4,8 +4,9 @@ exports.up = function(knex, Promise) {
       knex.schema.createTable('state', function(table) {
         table.increments('id').primary();
         table.string('state').unique();
+        table.specificType('people', 'text[]')
         table.integer('deaths')
-        table.timestamps(true,true);
+        table.timestamps(true, true);
       })
     ])
 };

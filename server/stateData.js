@@ -1,7 +1,12 @@
 const data = require("./data.js")
 
 const stateData =  data.reduce((acc, item) => {
-  acc[item.state]? acc[item.state].deaths+=1 : acc[item.state] = {state: item.state, deaths: 1}
+  if (acc[item.state]) {
+    acc[item.state].deaths+=1
+    acc[item.state].people.push(item.id)
+  } else {
+    acc[item.state] = {state: item.state, deaths: 1, people: [item.id]}
+  }
   return acc
 }, {})
 
