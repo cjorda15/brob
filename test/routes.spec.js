@@ -42,7 +42,7 @@ describe('API Routes', () => {
     })
   });
 
-
+  //
   beforeEach((done) => {
     knex.migrate.latest()
     .then(() => {
@@ -53,13 +53,25 @@ describe('API Routes', () => {
     })
   });
 
-  it('should return all of the categories', (done) => {
+  it('should return all of the states data', (done) => {
     chai.request(server)
       .get('/api/v1/states')
       .end((err, res) => {
         res.should.have.status(200)
         res.should.be.json;
         res.body.length.should.equal(51)
+        done()
+      })
+  })
+
+  it('should return all of the data concerning civilions killed by police', (done) => {
+    chai.request(server)
+      .get('/api/v1/stats')
+      .end((err, res) => {
+        res.should.have.status(200)
+        res.should.be.json;
+        res.body.length.should.equal(2239)
+        console.log(res.body[0])
         done()
       })
   })
