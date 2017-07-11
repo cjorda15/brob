@@ -13,15 +13,15 @@ app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
 
-app.set('port',process.env.PORT ||3000)
+app.set('port', process.env.PORT ||3000)
 
-app.get('/', (req,res) => {
+app.get('/', (req, res) => {
   res.status(200).send("Hello")
 })
 
 app.use('/api/v1', router)
 
-app.listen(app.get('port') , () => {
+app.listen(app.get('port'), () => {
   console.log("app is on port "+ app.get('port'))
 })
 

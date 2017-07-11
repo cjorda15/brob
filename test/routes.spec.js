@@ -20,7 +20,7 @@ describe('Client Routes', () => {
   })
 
   it('should return 404 for route that doesnt exist', (done) => {
-   chai.request(server)
+    chai.request(server)
     .get('/sad')
     .end((err, res) => {
       res.should.have.status(404)
@@ -53,8 +53,6 @@ describe('API Routes', () => {
     })
   });
 
-
-
   it('should return all of the categories', (done) => {
     chai.request(server)
       .get('/api/v1/states')
@@ -64,7 +62,5 @@ describe('API Routes', () => {
         res.body.length.should.equal(51)
         done()
       })
-    })
-
-
+  })
 })

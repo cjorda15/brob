@@ -5,8 +5,8 @@
   "main": "index.js",
   "scripts": {
     "test": "./node_modules/.bin/mocha",
-    "start": "node killall -9 && nodemon server/index.js",
-    "lint": "jshint ."
+    "start": "nodemon server/index.js",
+    "lint": "jshint"
   },
   "author": "",
   "license": "ISC",

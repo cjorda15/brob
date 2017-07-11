@@ -31,78 +31,78 @@ const checkAuth = (req, res, next) => {
   }
 }
 
-router.get('/states', (req,res) => {
+router.get('/states', (req, res) => {
   database('state').select()
   .then(states => {
     res.status(200).json(states);
-   })
+  })
    .catch(error => {
-      response.status(500).json({error})
-  });
+     response.status(500).json({error})
+   });
 })
 
-router.get('/states/:state', (req,res) => {
+router.get('/states/:state', (req, res) => {
   database('state').where({
-    'state' : req.params.state
+    'state': req.params.state
   })
   .then(state => {
     res.status(200).json(state);
-   })
-   .catch(error => {
-      res.sendStatus(500).json({error})
-    });
   })
+   .catch(error => {
+     res.sendStatus(500).json({error})
+   });
+})
 
-router.put('/states/:state/increment', checkAuth, (req,res) => {
+router.put('/states/:state/increment', checkAuth, (req, res) => {
   database('state')
-  .where('state',req.params.state)
+  .where('state', req.params.state)
   .select()
   .update("deaths", database.raw(`deaths + 1`))
   .then(update => {
-   res.sendStatus(200)
+    res.sendStatus(200)
   })
   .catch(error => {
-    res.status(422).json({error},"incorrect input")
+    res.status(422).json({error}, "incorrect input")
   });
 })
 
-router.put('/states/:state/decrement', checkAuth, (req,res) => {
+router.put('/states/:state/decrement', checkAuth, (req, res) => {
   database('state')
-  .where('state',req.params.state)
+  .where('state', req.params.state)
   .select()
   .update("deaths", database.raw(`deaths - 1`))
   .then(update => {
-   res.sendStatus(200)
+    res.sendStatus(200)
   })
   .catch(error => {
-    res.status(422).json({error},"incorrect input")
+    res.status(422).json({error}, "incorrect input")
   });
 })
 
-router.delete('/state:state', checkAuth, (req,res) => {
+router.delete('/state:state', checkAuth, (req, res) => {
   database('state')
-  .where('state',req.params.state)
+  .where('state', req.params.state)
   .del()
   .then(update => {
-   res.sendStatus(200)
+    res.sendStatus(200)
   })
   .catch(error => {
     res.status(500).json({error})
- });
+  });
 })
 
 
-router.get('/stats', (req,res) => {
+router.get('/stats', (req, res) => {
   database('stats').select()
   .then(state => {
     res.status(200).json(state);
-   })
+  })
    .catch(error => {
-      res.status(500).json({error})
-    });
+     res.status(500).json({error})
+   });
 })
 
-router.get('/stats/query', (req,res) => {
+router.get('/stats/query', (req, res) => {
   const col = req.query.column
   const by = req.query.type
 
@@ -111,46 +111,47 @@ router.get('/stats/query', (req,res) => {
   ).select()
   .then(stat => {
     res.status(200).json(stat);
-   })
+  })
    .catch(error => {
-      res.status(500).json({error})
-  });
+     res.status(500).json({error})
+   });
 })
 
-router.put('/stats', checkAuth,(req,res) => {
-  const {id,column,update} = req.body
+router.put('/stats', checkAuth, (req, res) => {
+  const {id, column, update} = req.body
 
   database('stats')
-  .where("id",id).select()
-  .update(column,update)
+  .where("id", id).select()
+  .update(column, update)
    .then(update => {
      res.status(200).json(update)
    })
    .catch(error => {
-      res.status(422).json({error},"incorrect input")
-  });
+     res.status(422).json({error}, "incorrect input")
+   });
 })
 
-router.delete('/stats:id', checkAuth,(req,res) => {
+router.delete('/stats:id', checkAuth, (req, res) => {
   database('stats')
-  .where('id',req.params.id)
+  .where('id', req.params.id)
   .del()
   .then(update => {
-   res.sendStatus(200)
+    res.sendStatus(200)
   })
   .catch(error => {
     res.status(500).json({error})
- });
+  });
 })
 
 router.post('/auth', (req, res) => {
   const {user} = req.body
-    if (user.username !== process.env.USERNAME || user.password !== process.env.PASSWORD) {
+
+  if (user.username !== process.env.USERNAME || user.password !== process.env.PASSWORD) {
     res.status(403).send({
       success: false,
       message: 'Invalid Credentials',
     })
-  }else{
+  } else {
     const token = jwt.sign(user, process.env.CLIENT_SECRET, {
       expiresIn: 172800
     })
@@ -158,7 +159,7 @@ router.post('/auth', (req, res) => {
     res.json({
       success: true,
       username: user.username,
-      token: token,
+      token,
     })
   }
 })
