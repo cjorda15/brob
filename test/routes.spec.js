@@ -59,7 +59,6 @@ describe('API Routes', () => {
     chai.request(server)
       .get('/api/v1/states')
       .end((err, res) => {
-        console.log(res.body);
         res.should.have.status(200)
         res.should.be.json;
         res.body.length.should.equal(51)
