@@ -42,10 +42,24 @@ describe('API Routes', () => {
     })
   });
 
+
+  beforeEach((done) => {
+    knex.migrate.latest()
+    .then(() => {
+      knex.seed.run()
+    })
+    .then(() => {
+      done()
+    })
+  });
+
+
+
   it('should return all of the categories', (done) => {
     chai.request(server)
       .get('/api/v1/states')
       .end((err, res) => {
+        console.log(res.body);
         res.should.have.status(200)
         res.should.be.json;
         res.body.length.should.equal(51)
