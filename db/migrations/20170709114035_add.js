@@ -16,7 +16,6 @@ exports.up = function(knex, Promise) {
       table.string('cause');
       table.string('dept');
       table.string('armed');
-      table.string('__v')
       table.timestamps(true, true);
     })
   ])

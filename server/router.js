@@ -62,8 +62,14 @@ router.put('/states/:state/increment', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(422).json({error}, "incorrect input")
+    res.status(501).json({error}, "incorrect input")
   });
+})
+
+router.post('/states', checkAuth, (req, res) => {
+  database('state')
+  .insert(req.body.data)
+  .then(() => res.status(201).send("successful insertion"))
 })
 
 router.put('/states/:state/decrement', checkAuth, (req, res) => {
@@ -75,7 +81,7 @@ router.put('/states/:state/decrement', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(422).json({error}, "incorrect input")
+    res.status(501).json({error}, "incorrect input")
   });
 })
 
@@ -87,7 +93,7 @@ router.delete('/state:state', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(500).json({error})
+    res.status(501).json({error})
   });
 })
 
@@ -98,7 +104,7 @@ router.get('/stats', (req, res) => {
     res.status(200).json(state);
   })
    .catch(error => {
-     res.status(500).json({error})
+     res.status(501).json({error})
    });
 })
 
@@ -113,7 +119,7 @@ router.get('/stats/query', (req, res) => {
     res.status(200).json(stat);
   })
    .catch(error => {
-     res.status(500).json({error})
+     res.status(501).json({error})
    });
 })
 
@@ -121,18 +127,16 @@ router.post('/stats', checkAuth, (req, res) => {
   let randomId = ""
 
   const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
-  const {name, age, sex, race, month, day, year, address, city, state, cause, dept, armed, __v } = req.body
-  for (let i =0; i<possible.length; i++ ) {
+  let {data} = req.body
+  for (let i =0; i<25; i++ ) {
     let random = (Math.floor(Math.random()*36))
     randomId+=  possible[random]
   }
-  database('stats').insert(
-    randomId, name, age, sex, race, month, day, year, address, city, state, cause, dept, armed, __v
-  ).then(data => {
+  data.id=randomId
+  database('stats').select().insert(data).then(data => {
     res.status(201).send(data)
   })
   .catch(err => res.status(501).send(err))
-
 })
 
 
@@ -158,7 +162,7 @@ router.delete('/stats:id', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(500).json({error})
+    res.status(501).json({error})
   });
 })
 

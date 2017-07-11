@@ -14,7 +14,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Hutchinson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680a",
@@ -31,7 +31,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Allen Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680f",
@@ -48,7 +48,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Greenwood Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86814",
@@ -65,7 +65,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Bullhead City Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86819",
@@ -82,7 +82,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Henry County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681e",
@@ -99,7 +99,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Lynnwood Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86823",
@@ -116,7 +116,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86828",
@@ -133,7 +133,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Harrison County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682d",
@@ -150,7 +150,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Saraland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86832",
@@ -167,7 +167,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pinellas County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86837",
@@ -184,7 +184,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683c",
@@ -201,7 +201,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86841",
@@ -218,7 +218,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky Department of Corrections",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86846",
@@ -235,7 +235,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8684b",
@@ -252,7 +252,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Mankato Department of Public Safety",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ca",
@@ -269,7 +269,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Marin County Sheriff’s Office, Central Marin Police Authority",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866cf",
@@ -286,7 +286,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Ruidoso Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d4",
@@ -303,7 +303,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Hamilton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d9",
@@ -320,7 +320,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Fort Collins Police Services",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866de",
@@ -337,7 +337,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e3",
@@ -354,7 +354,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Raleigh Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e8",
@@ -371,7 +371,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Bell County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ed",
@@ -388,7 +388,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Sylvania Township Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f2",
@@ -405,7 +405,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Parker Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f7",
@@ -422,7 +422,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Atlantic City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866fc",
@@ -439,7 +439,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Ennis Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86701",
@@ -456,7 +456,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86706",
@@ -473,7 +473,7 @@ state: "FL",
 cause: "Taser",
 dept: "Pinellas County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670b",
@@ -490,7 +490,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Mercer County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86710",
@@ -507,7 +507,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Colton Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86715",
@@ -524,7 +524,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hernando County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671a",
@@ -541,7 +541,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Owensboro Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671f",
@@ -558,7 +558,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Akron Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86724",
@@ -575,7 +575,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Decatur County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86729",
@@ -592,7 +592,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Wood County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672e",
@@ -609,7 +609,7 @@ state: "NH",
 cause: "Gunshot",
 dept: "Claremont Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86733",
@@ -626,7 +626,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "El Cajon Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86738",
@@ -643,7 +643,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673d",
@@ -660,7 +660,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Trinity County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86742",
@@ -677,7 +677,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Markham Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86747",
@@ -694,7 +694,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674c",
@@ -711,7 +711,7 @@ state: "TX",
 cause: "Taser",
 dept: "Tarrant County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86751",
@@ -728,7 +728,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Bibb County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86756",
@@ -745,7 +745,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Fayetteville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675b",
@@ -762,7 +762,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Fort Wayne Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86760",
@@ -779,7 +779,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "North Carolina State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86765",
@@ -796,7 +796,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Boston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676a",
@@ -813,7 +813,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Beaumont Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676f",
@@ -830,7 +830,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Cruz Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86774",
@@ -847,7 +847,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Benton Harbor Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86779",
@@ -864,7 +864,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Willoughby Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677e",
@@ -881,7 +881,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Murrieta Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86783",
@@ -898,7 +898,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Rochester Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86788",
@@ -915,7 +915,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678d",
@@ -932,7 +932,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86792",
@@ -949,7 +949,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mohave County Sheriff’s Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86797",
@@ -966,7 +966,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Torrance Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679c",
@@ -983,7 +983,7 @@ state: "OK",
 cause: "Death in custody",
 dept: "Enid Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a1",
@@ -1000,7 +1000,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Chambersburg Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a6",
@@ -1017,7 +1017,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Gladewater Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ab",
@@ -1034,7 +1034,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Butler County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b0",
@@ -1051,7 +1051,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b5",
@@ -1068,7 +1068,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ba",
@@ -1085,7 +1085,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Grand Junction Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867bf",
@@ -1102,7 +1102,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Anchorage Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c4",
@@ -1119,7 +1119,7 @@ state: "SC",
 cause: "Death in custody",
 dept: "Charleston County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c9",
@@ -1136,7 +1136,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ce",
@@ -1153,7 +1153,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Okaloosa County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d3",
@@ -1170,7 +1170,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Chickasha Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d8",
@@ -1187,7 +1187,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Gladstone Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867dd",
@@ -1204,7 +1204,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Jefferson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e2",
@@ -1221,7 +1221,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Anchorage Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e7",
@@ -1238,7 +1238,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ec",
@@ -1255,7 +1255,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f1",
@@ -1272,7 +1272,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Catawba County Sheriff's Office",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f6",
@@ -1289,7 +1289,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Friendswood Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867fb",
@@ -1306,7 +1306,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Pope County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86800",
@@ -1323,7 +1323,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861cf",
@@ -1340,7 +1340,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Parowan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d4",
@@ -1357,7 +1357,7 @@ state: "GA",
 cause: "Taser",
 dept: "Gwinnett County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d9",
@@ -1374,7 +1374,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861de",
@@ -1391,7 +1391,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Casper Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e3",
@@ -1408,7 +1408,7 @@ state: "NC",
 cause: "Death in custody",
 dept: "Henderson County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e8",
@@ -1425,7 +1425,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Kansas City Police Department, US Marshals",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ed",
@@ -1442,7 +1442,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Seattle Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f2",
@@ -1459,7 +1459,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Brownsville Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f7",
@@ -1476,7 +1476,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Colby Police Department, Thomas County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861fc",
@@ -1493,7 +1493,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86201",
@@ -1510,7 +1510,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Bartow County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86206",
@@ -1527,7 +1527,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Converse County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620b",
@@ -1544,7 +1544,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "New Orleans Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86210",
@@ -1561,7 +1561,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Seneca Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86215",
@@ -1578,7 +1578,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Boulder Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621a",
@@ -1595,7 +1595,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "San Francisco Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621f",
@@ -1612,7 +1612,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86224",
@@ -1629,7 +1629,7 @@ state: "MI",
 cause: "Struck by vehicle",
 dept: "St Clair Shores Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86229",
@@ -1646,7 +1646,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Powhatan County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622e",
@@ -1663,7 +1663,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Tacoma Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86233",
@@ -1680,7 +1680,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Elsmere Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86238",
@@ -1697,7 +1697,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Dorchester County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623d",
@@ -1714,7 +1714,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Spokane Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86242",
@@ -1731,7 +1731,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pittston Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86247",
@@ -1748,7 +1748,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oakland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624c",
@@ -1765,7 +1765,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Toledo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86251",
@@ -1782,7 +1782,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sunnyvale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86256",
@@ -1799,7 +1799,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Kerrville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625b",
@@ -1816,7 +1816,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86260",
@@ -1833,7 +1833,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Tuscaloosa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86265",
@@ -1850,7 +1850,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Itasca County Sheriff's office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626a",
@@ -1867,7 +1867,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Arab Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626f",
@@ -1884,7 +1884,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "King George County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86274",
@@ -1901,7 +1901,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Hendersonville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86279",
@@ -1918,7 +1918,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627e",
@@ -1935,7 +1935,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Spanish Fork Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86283",
@@ -1952,7 +1952,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86288",
@@ -1969,7 +1969,7 @@ state: "OH",
 cause: "Taser",
 dept: "Cincinnati Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628d",
@@ -1986,7 +1986,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Twinsburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86292",
@@ -2003,7 +2003,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "West Baden Police Department, Indiana State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86297",
@@ -2020,7 +2020,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629c",
@@ -2037,7 +2037,7 @@ state: "PA",
 cause: "Taser",
 dept: "Pennsylvania State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a1",
@@ -2054,7 +2054,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Hobbs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a6",
@@ -2071,7 +2071,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indiana State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ab",
@@ -2088,7 +2088,7 @@ state: "CO",
 cause: "Death in custody",
 dept: "Jefferson County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b0",
@@ -2105,7 +2105,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Knox County Sheriff's Office Swat team",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b5",
@@ -2122,7 +2122,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Barstow Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ba",
@@ -2139,7 +2139,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Fairbanks Police Department, Alaska State Troopers",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862bf",
@@ -2156,7 +2156,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police, Rockcastle County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c4",
@@ -2173,7 +2173,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Tammany Parish Sheriff's Office, Slidell Police Department, Louisiana State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c9",
@@ -2190,7 +2190,7 @@ state: "MI",
 cause: "Struck by vehicle",
 dept: "Benton Charter Township Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ce",
@@ -2207,7 +2207,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d3",
@@ -2224,7 +2224,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Okaloosa County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d8",
@@ -2241,7 +2241,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862dd",
@@ -2258,7 +2258,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e2",
@@ -2275,7 +2275,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Walker County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e7",
@@ -2292,7 +2292,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ec",
@@ -2309,7 +2309,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f1",
@@ -2326,7 +2326,7 @@ state: "GA",
 cause: "Struck by vehicle",
 dept: "Georgia State Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f6",
@@ -2343,7 +2343,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Monterey Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862fb",
@@ -2360,7 +2360,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86300",
@@ -2377,7 +2377,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Lisle Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86305",
@@ -2394,7 +2394,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Emerson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630a",
@@ -2411,7 +2411,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Indio Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630f",
@@ -2428,7 +2428,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Kirkland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86314",
@@ -2445,7 +2445,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Modesto Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86319",
@@ -2462,7 +2462,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631e",
@@ -2479,7 +2479,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86323",
@@ -2496,7 +2496,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Tulare County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86328",
@@ -2513,7 +2513,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Cape Coral Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632d",
@@ -2530,7 +2530,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Pickens County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86332",
@@ -2547,7 +2547,7 @@ state: "PA",
 cause: "Taser",
 dept: "Southeastern Pennsylvania Transportation Authority Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86337",
@@ -2564,7 +2564,7 @@ state: "LA",
 cause: "Taser",
 dept: "Baton Rouge Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633c",
@@ -2581,7 +2581,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Mesquite Police Department, Texas Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86341",
@@ -2598,7 +2598,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Cherokee County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86346",
@@ -2615,7 +2615,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634b",
@@ -2632,7 +2632,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "University of California Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86350",
@@ -2649,7 +2649,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Skiatook Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86355",
@@ -2666,7 +2666,7 @@ state: "DC",
 cause: "Death in custody",
 dept: "Special police, Washington DC",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635a",
@@ -2683,7 +2683,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Anson County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635f",
@@ -2700,7 +2700,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Chico Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86364",
@@ -2717,7 +2717,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "New Jersey Department of Corrections",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86369",
@@ -2734,7 +2734,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Effingham County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636e",
@@ -2751,7 +2751,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oakland Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86373",
@@ -2768,7 +2768,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Weatherford Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86378",
@@ -2785,7 +2785,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Opa-locka Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637d",
@@ -2802,7 +2802,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Fort Pierce Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86382",
@@ -2819,7 +2819,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fontana Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86387",
@@ -2836,7 +2836,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Corpus Christi Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638c",
@@ -2853,7 +2853,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Camden County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86391",
@@ -2870,7 +2870,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Seagoville Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86396",
@@ -2887,7 +2887,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Lincoln Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639b",
@@ -2904,7 +2904,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a0",
@@ -2921,7 +2921,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a5",
@@ -2938,7 +2938,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Seattle Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863aa",
@@ -2955,7 +2955,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tallahassee Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863af",
@@ -2972,7 +2972,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Grayson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b4",
@@ -2989,7 +2989,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Pima County Sheriff's Department, Pima County Attorney's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b9",
@@ -3006,7 +3006,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863be",
@@ -3023,7 +3023,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Arlington Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c3",
@@ -3040,7 +3040,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Thurston County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c8",
@@ -3057,7 +3057,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Mount Hope Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863cd",
@@ -3074,7 +3074,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d2",
@@ -3091,7 +3091,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d7",
@@ -3108,7 +3108,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Douglas County Sheriff's Office",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863dc",
@@ -3125,7 +3125,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e1",
@@ -3142,7 +3142,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e6",
@@ -3159,7 +3159,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Palo Alto Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863eb",
@@ -3176,7 +3176,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tempe Police Dpeartment",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f0",
@@ -3193,7 +3193,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Seattle Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f5",
@@ -3210,7 +3210,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863fa",
@@ -3227,7 +3227,7 @@ state: "DE",
 cause: "Taser",
 dept: "Delaware State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ff",
@@ -3244,7 +3244,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Richmond Heights Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86404",
@@ -3261,7 +3261,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Lubbock Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86409",
@@ -3278,7 +3278,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640e",
@@ -3295,7 +3295,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86413",
@@ -3312,7 +3312,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ceres Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86418",
@@ -3329,7 +3329,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Owensboro Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641d",
@@ -3346,7 +3346,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86422",
@@ -3363,7 +3363,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Anchorage Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86427",
@@ -3380,7 +3380,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642c",
@@ -3397,7 +3397,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Beaverton Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86431",
@@ -3414,7 +3414,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86436",
@@ -3431,7 +3431,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643b",
@@ -3448,7 +3448,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Forney Police Department, Mesquite Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86440",
@@ -3465,7 +3465,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Kerrville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86445",
@@ -3482,7 +3482,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Reno Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644a",
@@ -3499,7 +3499,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644f",
@@ -3516,7 +3516,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Santa Fe Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86454",
@@ -3533,7 +3533,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Lynn Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86459",
@@ -3550,7 +3550,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Saginaw Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645e",
@@ -3567,7 +3567,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86463",
@@ -3584,7 +3584,7 @@ state: "TX",
 cause: "Struck by vehicle",
 dept: "Bexar County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86468",
@@ -3601,7 +3601,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Lake County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646d",
@@ -3618,7 +3618,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Escambia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86472",
@@ -3635,7 +3635,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86477",
@@ -3652,7 +3652,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Chester Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647c",
@@ -3669,7 +3669,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Colonie Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86481",
@@ -3686,7 +3686,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86486",
@@ -3703,7 +3703,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Clayton County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648b",
@@ -3720,7 +3720,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86490",
@@ -3737,7 +3737,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86495",
@@ -3754,7 +3754,7 @@ state: "TX",
 cause: "Struck by vehicle",
 dept: "Van Zandt County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649a",
@@ -3771,7 +3771,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Commerce Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649f",
@@ -3788,7 +3788,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Ogden Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a4",
@@ -3805,7 +3805,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a9",
@@ -3822,7 +3822,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Alaska Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ae",
@@ -3839,7 +3839,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Constable's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b3",
@@ -3856,7 +3856,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Park County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b8",
@@ -3873,7 +3873,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Greeley Police Department, LaSalle Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864bd",
@@ -3890,7 +3890,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Roanoke County Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c2",
@@ -3907,7 +3907,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Bay Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c7",
@@ -3924,7 +3924,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Johnstown Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864cc",
@@ -3941,7 +3941,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Beaumont Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d1",
@@ -3958,7 +3958,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Rochester Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d6",
@@ -3975,7 +3975,7 @@ state: "CA",
 cause: "Taser",
 dept: "Stockton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864db",
@@ -3992,7 +3992,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e0",
@@ -4009,7 +4009,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Dewitt County Sheriff's Office, Clinton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e5",
@@ -4026,7 +4026,7 @@ state: "KY",
 cause: "Taser",
 dept: "Kentucky State Police, Warren County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ea",
@@ -4043,7 +4043,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Clark County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ef",
@@ -4060,7 +4060,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f4",
@@ -4077,7 +4077,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Anson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f9",
@@ -4094,7 +4094,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864fe",
@@ -4111,7 +4111,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86503",
@@ -4128,7 +4128,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Alachua County Sheriff's Office, Gainesville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86508",
@@ -4145,7 +4145,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Fredericksburg Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650d",
@@ -4162,7 +4162,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Escambia County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86512",
@@ -4179,7 +4179,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "US Marshals",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86517",
@@ -4196,7 +4196,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Lowell Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651c",
@@ -4213,7 +4213,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Montgomery County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86521",
@@ -4230,7 +4230,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86526",
@@ -4247,7 +4247,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652b",
@@ -4264,7 +4264,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86530",
@@ -4281,7 +4281,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86535",
@@ -4298,7 +4298,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Sumner County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653a",
@@ -4315,7 +4315,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Kentwood Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653f",
@@ -4332,7 +4332,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86544",
@@ -4349,7 +4349,7 @@ state: "LA",
 cause: "Struck by vehicle",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86549",
@@ -4366,7 +4366,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety, Llano County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654e",
@@ -4383,7 +4383,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Lake Elsinore Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86553",
@@ -4400,7 +4400,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86558",
@@ -4417,7 +4417,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Cobb County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655d",
@@ -4434,7 +4434,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Johnson County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86562",
@@ -4451,7 +4451,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86567",
@@ -4468,7 +4468,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Fayetteville Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656c",
@@ -4485,7 +4485,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Bernalillo County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86571",
@@ -4502,7 +4502,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Westminster Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86576",
@@ -4519,7 +4519,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Spokane Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657b",
@@ -4536,7 +4536,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Wausau Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86580",
@@ -4553,7 +4553,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "King County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86585",
@@ -4570,7 +4570,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Milwaukee Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658a",
@@ -4587,7 +4587,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658f",
@@ -4604,7 +4604,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86594",
@@ -4621,7 +4621,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Greeley Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86599",
@@ -4638,7 +4638,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659e",
@@ -4655,7 +4655,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Volusia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a3",
@@ -4672,7 +4672,7 @@ state: "IN",
 cause: "Death in custody",
 dept: "Indiana Department of Correction",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a8",
@@ -4689,7 +4689,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ad",
@@ -4706,7 +4706,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b2",
@@ -4723,7 +4723,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b7",
@@ -4740,7 +4740,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Flagstaff Police Department, Northern Arizona University Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865bc",
@@ -4757,7 +4757,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Florida Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c1",
@@ -4774,7 +4774,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Barbara County Sheriff’s Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c6",
@@ -4791,7 +4791,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Lincoln Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865cb",
@@ -4808,7 +4808,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d0",
@@ -4825,7 +4825,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d5",
@@ -4842,7 +4842,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865da",
@@ -4859,7 +4859,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865df",
@@ -4876,7 +4876,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Hawaii Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e4",
@@ -4893,7 +4893,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "California Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e9",
@@ -4910,7 +4910,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Irondale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ee",
@@ -4927,7 +4927,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Iredell County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f3",
@@ -4944,7 +4944,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Utah County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f8",
@@ -4961,7 +4961,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Boise Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865fd",
@@ -4978,7 +4978,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86602",
@@ -4995,7 +4995,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Williams County Sheriff's office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86607",
@@ -5012,7 +5012,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Fort Walton Beach Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660c",
@@ -5029,7 +5029,7 @@ state: "NH",
 cause: "Gunshot",
 dept: "Greenfield Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86611",
@@ -5046,7 +5046,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado Springs Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86616",
@@ -5063,7 +5063,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Wauwatosa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661b",
@@ -5080,7 +5080,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86620",
@@ -5097,7 +5097,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Buckeye Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86625",
@@ -5114,7 +5114,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hillsborough County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662a",
@@ -5131,7 +5131,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington Metropolitan Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662f",
@@ -5148,7 +5148,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Fort Madison Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86634",
@@ -5165,7 +5165,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Park County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86639",
@@ -5182,7 +5182,7 @@ state: "IN",
 cause: "Struck by vehicle",
 dept: "Indiana State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663e",
@@ -5199,7 +5199,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Iberia Parish Sheriff’s Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86643",
@@ -5216,7 +5216,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Kaufman County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86648",
@@ -5233,7 +5233,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Polk County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664d",
@@ -5250,7 +5250,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bell Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86652",
@@ -5267,7 +5267,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86657",
@@ -5284,7 +5284,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665c",
@@ -5301,7 +5301,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Flagstaff Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86661",
@@ -5318,7 +5318,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Clay County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86666",
@@ -5335,7 +5335,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666b",
@@ -5352,7 +5352,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Maria Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86670",
@@ -5369,7 +5369,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Milwaukee Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86675",
@@ -5386,7 +5386,7 @@ state: "OR",
 cause: "Struck by vehicle",
 dept: "Central Oregon Community College Campus Public Safety",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667a",
@@ -5403,7 +5403,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Artesia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667f",
@@ -5420,7 +5420,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Phillips County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86684",
@@ -5437,7 +5437,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86689",
@@ -5454,7 +5454,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Homewood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668e",
@@ -5471,7 +5471,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Wapato Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86693",
@@ -5488,7 +5488,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86698",
@@ -5505,7 +5505,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669d",
@@ -5522,7 +5522,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Loudoun County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a2",
@@ -5539,7 +5539,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a7",
@@ -5556,7 +5556,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Richland County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ac",
@@ -5573,7 +5573,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Anderson County Sheriff's Office",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b1",
@@ -5590,7 +5590,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Iberville Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b6",
@@ -5607,7 +5607,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Milwaukee Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866bb",
@@ -5624,7 +5624,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c0",
@@ -5641,7 +5641,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Maricopa County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c5",
@@ -5658,7 +5658,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Humboldt County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86811",
@@ -5675,7 +5675,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "York Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86816",
@@ -5692,7 +5692,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681b",
@@ -5709,7 +5709,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86820",
@@ -5726,7 +5726,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86825",
@@ -5743,7 +5743,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Brawley Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682a",
@@ -5760,7 +5760,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Elk City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682f",
@@ -5777,7 +5777,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Joaquin County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86834",
@@ -5794,7 +5794,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Bend Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86839",
@@ -5811,7 +5811,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Clay County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683e",
@@ -5828,7 +5828,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Brazoria County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86843",
@@ -5845,7 +5845,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Spring Hill Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86848",
@@ -5862,7 +5862,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Beach County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f8e",
@@ -5879,7 +5879,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f93",
@@ -5896,7 +5896,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Chandler Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f98",
@@ -5913,7 +5913,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Saline County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9d",
@@ -5930,7 +5930,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "New Orleans Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa2",
@@ -5947,7 +5947,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Syracuse Police Department, Davis County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa7",
@@ -5964,7 +5964,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Arcola Police Department, Tuscola Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fac",
@@ -5981,7 +5981,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "West Valley City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb1",
@@ -5998,7 +5998,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb6",
@@ -6015,7 +6015,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Department of Veteran Affairs",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fbb",
@@ -6032,7 +6032,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc0",
@@ -6049,7 +6049,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Maricopa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc5",
@@ -6066,7 +6066,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "US Border Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fca",
@@ -6083,7 +6083,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Lauderhill Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fcf",
@@ -6100,7 +6100,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Pueblo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd4",
@@ -6117,7 +6117,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "New Hope Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd9",
@@ -6134,7 +6134,7 @@ state: "AK",
 cause: "Death in custody",
 dept: "Anchorage Department of Corrections",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fde",
@@ -6151,7 +6151,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe3",
@@ -6168,7 +6168,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe8",
@@ -6185,7 +6185,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Emeryville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fed",
@@ -6202,7 +6202,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orlando Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff2",
@@ -6219,7 +6219,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff7",
@@ -6236,7 +6236,7 @@ state: "VA",
 cause: "Taser",
 dept: "Fairfax County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ffc",
@@ -6253,7 +6253,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Anchorage Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86001",
@@ -6270,7 +6270,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86006",
@@ -6287,7 +6287,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600b",
@@ -6304,7 +6304,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Iuka Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86010",
@@ -6321,7 +6321,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Tewksbury Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86015",
@@ -6338,7 +6338,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601a",
@@ -6355,7 +6355,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police and US Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601f",
@@ -6372,7 +6372,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Millbrook Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86024",
@@ -6389,7 +6389,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86029",
@@ -6406,7 +6406,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Worth County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602e",
@@ -6423,7 +6423,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Franklin County Corrections Division",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86033",
@@ -6440,7 +6440,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86038",
@@ -6457,7 +6457,7 @@ state: "HI",
 cause: "Struck by vehicle",
 dept: "Hawaii Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603d",
@@ -6474,7 +6474,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department, San Joaquin County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86042",
@@ -6491,7 +6491,7 @@ state: "TX",
 cause: "Taser",
 dept: "Sulphur Springs Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86047",
@@ -6508,7 +6508,7 @@ state: "DE",
 cause: "Gunshot",
 dept: "Delaware State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604c",
@@ -6525,7 +6525,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "North Carolina Alcohol Law Enforcement, Transylvania County Sheriff's Office, Homeland Security",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86051",
@@ -6542,7 +6542,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ontario Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86056",
@@ -6559,7 +6559,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605b",
@@ -6576,7 +6576,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington DC Metro Transit Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86060",
@@ -6593,7 +6593,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Brooke County Sheriff's Department, West Virginia State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86065",
@@ -6610,7 +6610,7 @@ state: "CT",
 cause: "Taser",
 dept: "Branford Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606a",
@@ -6627,7 +6627,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606f",
@@ -6644,7 +6644,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Medford Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86074",
@@ -6661,7 +6661,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cleveland Division of Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86079",
@@ -6678,7 +6678,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Lawrence County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607e",
@@ -6695,7 +6695,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Vallejo Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86083",
@@ -6712,7 +6712,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Portland Police Bureau",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86088",
@@ -6729,7 +6729,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Wisconsin State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608d",
@@ -6746,7 +6746,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86092",
@@ -6763,7 +6763,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Webster Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86097",
@@ -6780,7 +6780,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Pike County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609c",
@@ -6797,7 +6797,7 @@ state: "IN",
 cause: "Taser",
 dept: "Lake County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a1",
@@ -6814,7 +6814,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Hamilton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a6",
@@ -6831,7 +6831,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ab",
@@ -6848,7 +6848,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Zion Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b0",
@@ -6865,7 +6865,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b5",
@@ -6882,7 +6882,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sunnyvale Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ba",
@@ -6899,7 +6899,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860bf",
@@ -6916,7 +6916,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Topeka Police Department, Kansas Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c4",
@@ -6933,7 +6933,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Alton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c9",
@@ -6950,7 +6950,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ce",
@@ -6967,7 +6967,7 @@ state: "MI",
 cause: "Taser",
 dept: "Gibraltar Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d3",
@@ -6984,7 +6984,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d8",
@@ -7001,7 +7001,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Hidalgo County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860dd",
@@ -7018,7 +7018,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Lexington County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e2",
@@ -7035,7 +7035,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Bisbee Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e7",
@@ -7052,7 +7052,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Trinidad Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ec",
@@ -7069,7 +7069,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f1",
@@ -7086,7 +7086,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "New Orleans Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f6",
@@ -7103,7 +7103,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860fb",
@@ -7120,7 +7120,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Greensville County Sheriff's Office and Virginia State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86100",
@@ -7137,7 +7137,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Bernalillo County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86105",
@@ -7154,7 +7154,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610a",
@@ -7171,7 +7171,7 @@ state: "FL",
 cause: "Taser",
 dept: "Sarasota Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610f",
@@ -7188,7 +7188,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86114",
@@ -7205,7 +7205,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86119",
@@ -7222,7 +7222,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Spokane Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611e",
@@ -7239,7 +7239,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "St Petersburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86123",
@@ -7256,7 +7256,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tampa Bay Police Department [US Marshals Service Task Force]",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86128",
@@ -7273,7 +7273,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612d",
@@ -7290,7 +7290,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Arlington Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86132",
@@ -7307,7 +7307,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86137",
@@ -7324,7 +7324,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Hackensack Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613c",
@@ -7341,7 +7341,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Detroit Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86141",
@@ -7358,7 +7358,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Snohomish County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86146",
@@ -7375,7 +7375,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614b",
@@ -7392,7 +7392,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Carrolton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86150",
@@ -7409,7 +7409,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Yavapai County Sheriff’s Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86155",
@@ -7426,7 +7426,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Medford Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615a",
@@ -7443,7 +7443,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615f",
@@ -7460,7 +7460,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Valencia County Sheriff’s Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86164",
@@ -7477,7 +7477,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oakland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86169",
@@ -7494,7 +7494,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Sand Springs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616e",
@@ -7511,7 +7511,7 @@ state: "TX",
 cause: "Taser",
 dept: "Dallas Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86173",
@@ -7528,7 +7528,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Des Moines Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86178",
@@ -7545,7 +7545,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617d",
@@ -7562,7 +7562,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86182",
@@ -7579,7 +7579,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86187",
@@ -7596,7 +7596,7 @@ state: "SC",
 cause: "Struck by vehicle",
 dept: "Greenville County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618c",
@@ -7613,7 +7613,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Hobbs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86191",
@@ -7630,7 +7630,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Azusa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86196",
@@ -7647,7 +7647,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Hutchinson Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619b",
@@ -7664,7 +7664,7 @@ state: "ID",
 cause: "Death in custody",
 dept: "Owyhee County Sheriff's Office, Homedale Police Department, Owyhee County Posse",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a0",
@@ -7681,7 +7681,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tahlequah Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a5",
@@ -7698,7 +7698,7 @@ state: "OH",
 cause: "Struck by vehicle",
 dept: "Clayton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861aa",
@@ -7715,7 +7715,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police, ATF",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861af",
@@ -7732,7 +7732,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Newport News Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b4",
@@ -7749,7 +7749,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b9",
@@ -7766,7 +7766,7 @@ state: "NJ",
 cause: "Struck by vehicle",
 dept: "Lacey Township Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861be",
@@ -7783,7 +7783,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c3",
@@ -7800,7 +7800,7 @@ state: "NH",
 cause: "Gunshot",
 dept: "Haverhill Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c8",
@@ -7817,7 +7817,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Beaverton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861cd",
@@ -7834,7 +7834,7 @@ state: "FL",
 cause: "Struck by vehicle",
 dept: "Tampa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d2",
@@ -7851,7 +7851,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d7",
@@ -7868,7 +7868,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861dc",
@@ -7885,7 +7885,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "River Forest Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e1",
@@ -7902,7 +7902,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Lynn Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e6",
@@ -7919,7 +7919,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Moreno Valley Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861eb",
@@ -7936,7 +7936,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Wauwatosa Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f0",
@@ -7953,7 +7953,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f5",
@@ -7970,7 +7970,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861fa",
@@ -7987,7 +7987,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Midwest City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ff",
@@ -8004,7 +8004,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Broward Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86204",
@@ -8021,7 +8021,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Montgomery County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86209",
@@ -8038,7 +8038,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Placer County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620e",
@@ -8055,7 +8055,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86213",
@@ -8072,7 +8072,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Lexington County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86218",
@@ -8089,7 +8089,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621d",
@@ -8106,7 +8106,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Douglas County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86222",
@@ -8123,7 +8123,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86227",
@@ -8140,7 +8140,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "South Londonderry Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622c",
@@ -8157,7 +8157,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Richmond Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86231",
@@ -8174,7 +8174,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Champaign Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86236",
@@ -8191,7 +8191,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Arlington Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623b",
@@ -8208,7 +8208,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Brookshire Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86240",
@@ -8225,7 +8225,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86245",
@@ -8242,7 +8242,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Bonner County Sheriff's Office and Sandpoint Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624a",
@@ -8259,7 +8259,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624f",
@@ -8276,7 +8276,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Prince George's County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86254",
@@ -8293,7 +8293,7 @@ state: "CA",
 cause: "Taser",
 dept: "Los Angeles County Sheriff’s Department, Baldwin Park Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86259",
@@ -8310,7 +8310,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625e",
@@ -8327,7 +8327,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Department of Corrections and Rehabilitation",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86263",
@@ -8344,7 +8344,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Wake Forest Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86268",
@@ -8361,7 +8361,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626d",
@@ -8378,7 +8378,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86272",
@@ -8395,7 +8395,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hillsborough County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86277",
@@ -8412,7 +8412,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Hamilton County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627c",
@@ -8429,7 +8429,7 @@ state: "VA",
 cause: "Struck by vehicle",
 dept: "Virginia State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86281",
@@ -8446,7 +8446,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86286",
@@ -8463,7 +8463,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Loveland Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628b",
@@ -8480,7 +8480,7 @@ state: "GA",
 cause: "Taser",
 dept: "Harris County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86290",
@@ -8497,7 +8497,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Mitchell Police Division",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86295",
@@ -8514,7 +8514,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ontario Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629a",
@@ -8531,7 +8531,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Virginia Beach Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629f",
@@ -8548,7 +8548,7 @@ state: "MI",
 cause: "Other",
 dept: "Lathrup Village Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a4",
@@ -8565,7 +8565,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Kansas City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a9",
@@ -8582,7 +8582,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ae",
@@ -8599,7 +8599,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Talladega County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b3",
@@ -8616,7 +8616,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Mineola Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b8",
@@ -8633,7 +8633,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862bd",
@@ -8650,7 +8650,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "Rialto Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c2",
@@ -8667,7 +8667,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c7",
@@ -8684,7 +8684,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Harrisonburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862cc",
@@ -8701,7 +8701,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sand City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d1",
@@ -8718,7 +8718,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "North Las Vegas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d6",
@@ -8735,7 +8735,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862db",
@@ -8752,7 +8752,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "St Paul Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e0",
@@ -8769,7 +8769,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "East Baton Rouge Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e5",
@@ -8786,7 +8786,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Ponder Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ea",
@@ -8803,7 +8803,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Kanabec County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ef",
@@ -8820,7 +8820,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Cochise County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f4",
@@ -8837,7 +8837,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Hurst Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f9",
@@ -8854,7 +8854,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Howard County Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862fe",
@@ -8871,7 +8871,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Beverly Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86303",
@@ -8888,7 +8888,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Lawton Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86308",
@@ -8905,7 +8905,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Conecuh County Sheriff's Office, Alabama Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630d",
@@ -8922,7 +8922,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Parma Police Deparment, Parma Heighs Police Department, Brooklyn Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86312",
@@ -8939,7 +8939,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86317",
@@ -8956,7 +8956,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Beach Gardens Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631c",
@@ -8973,7 +8973,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86321",
@@ -8990,7 +8990,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "US Customs and Border Protection",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86326",
@@ -9007,7 +9007,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632b",
@@ -9024,7 +9024,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Alaska State Troopers",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86330",
@@ -9041,7 +9041,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86335",
@@ -9058,7 +9058,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Monroe County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633a",
@@ -9075,7 +9075,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633f",
@@ -9092,7 +9092,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86344",
@@ -9109,7 +9109,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Opelika Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86349",
@@ -9126,7 +9126,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Springfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634e",
@@ -9143,7 +9143,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Berkeley County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86353",
@@ -9160,7 +9160,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Clark County School District Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86358",
@@ -9177,7 +9177,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Laredo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635d",
@@ -9194,7 +9194,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Bernalillo County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86362",
@@ -9211,7 +9211,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86367",
@@ -9228,7 +9228,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Hohenwald Police Department, Lewis County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636c",
@@ -9245,7 +9245,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86371",
@@ -9262,7 +9262,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Beaverhead County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86376",
@@ -9279,7 +9279,7 @@ state: "FL",
 cause: "Death in custody",
 dept: "Orlando Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637b",
@@ -9296,7 +9296,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86380",
@@ -9313,7 +9313,7 @@ state: "CO",
 cause: "Death in custody",
 dept: "Denver Sheriff Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86385",
@@ -9330,7 +9330,7 @@ state: "GA",
 cause: "Taser",
 dept: "Coweta County Sheriff’s Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638a",
@@ -9347,7 +9347,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Columbia Heights Police Department, Fridley Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638f",
@@ -9364,7 +9364,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Eagar Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86394",
@@ -9381,7 +9381,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Dekalb County Sheriff's Department, Missouri State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86399",
@@ -9398,7 +9398,7 @@ state: "ME",
 cause: "Gunshot",
 dept: "Bangor Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639e",
@@ -9415,7 +9415,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a3",
@@ -9432,7 +9432,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Deming Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a8",
@@ -9449,7 +9449,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Albany County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ad",
@@ -9466,7 +9466,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Sportsmen Acres Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b2",
@@ -9483,7 +9483,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b7",
@@ -9500,7 +9500,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Stroud Area Regional Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863bc",
@@ -9517,7 +9517,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Healdton Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c1",
@@ -9534,7 +9534,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Pike County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c6",
@@ -9551,7 +9551,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Gilroy Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863cb",
@@ -9568,7 +9568,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d0",
@@ -9585,7 +9585,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Taos County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d5",
@@ -9602,7 +9602,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Volusia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863da",
@@ -9619,7 +9619,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863df",
@@ -9636,7 +9636,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Dearborn Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e4",
@@ -9653,7 +9653,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Porterville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e9",
@@ -9670,7 +9670,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ee",
@@ -9687,7 +9687,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Hall County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f3",
@@ -9704,7 +9704,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f8",
@@ -9721,7 +9721,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Homedale Police Department, Owyhee County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863fd",
@@ -9738,7 +9738,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Leon County Sheriff's Office, Texas Department of Public Safety",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86402",
@@ -9755,7 +9755,7 @@ state: "NJ",
 cause: "Death in custody",
 dept: "Trenton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86407",
@@ -9772,7 +9772,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640c",
@@ -9789,7 +9789,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "United States Marshal Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86411",
@@ -9806,7 +9806,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Thurston County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86416",
@@ -9823,7 +9823,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Zion Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641b",
@@ -9840,7 +9840,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Cowlitz County Sheriff's Office, Kelso Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86420",
@@ -9857,7 +9857,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania state constable",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86425",
@@ -9874,7 +9874,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Illinois State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642a",
@@ -9891,7 +9891,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642f",
@@ -9908,7 +9908,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Rainbow City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86434",
@@ -9925,7 +9925,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Medford Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86439",
@@ -9942,7 +9942,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orlando Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643e",
@@ -9959,7 +9959,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Madison County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86443",
@@ -9976,7 +9976,7 @@ state: "IN",
 cause: "Struck by vehicle",
 dept: "Winona Lake Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86448",
@@ -9993,7 +9993,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police, FBI",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644d",
@@ -10010,7 +10010,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Mountain Pine Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86452",
@@ -10027,7 +10027,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Clackamas County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86457",
@@ -10044,7 +10044,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Larimer County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645c",
@@ -10061,7 +10061,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86461",
@@ -10078,7 +10078,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Rancho Cordova Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86466",
@@ -10095,7 +10095,7 @@ state: "AL",
 cause: "Death in custody",
 dept: "Athens Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646b",
@@ -10112,7 +10112,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "US Border Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86470",
@@ -10129,7 +10129,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Addis Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86475",
@@ -10146,7 +10146,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Lonoke County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647a",
@@ -10163,7 +10163,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647f",
@@ -10180,7 +10180,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86484",
@@ -10197,7 +10197,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86489",
@@ -10214,7 +10214,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648e",
@@ -10231,7 +10231,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Urbandale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86493",
@@ -10248,7 +10248,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Lea County Sheriff’s Office, Jal Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86498",
@@ -10265,7 +10265,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Mena Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649d",
@@ -10282,7 +10282,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Parker County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a2",
@@ -10299,7 +10299,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Mississippi Bureau of Narcotics, Mississippi Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a7",
@@ -10316,7 +10316,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Seattle Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ac",
@@ -10333,7 +10333,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b1",
@@ -10350,7 +10350,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "East Baton Rouge Parish Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b6",
@@ -10367,7 +10367,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Walworth County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864bb",
@@ -10384,7 +10384,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Hesston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c0",
@@ -10401,7 +10401,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Rapid City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c5",
@@ -10418,7 +10418,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Okmulgee County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ca",
@@ -10435,7 +10435,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Laurel County Constable's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864cf",
@@ -10452,7 +10452,7 @@ state: "ND",
 cause: "Gunshot",
 dept: "Bismarck Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d4",
@@ -10469,7 +10469,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Carbon County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d9",
@@ -10486,7 +10486,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Reno Police Department, Sparks Police Department, Washoe County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864de",
@@ -10503,7 +10503,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Butler County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e3",
@@ -10520,7 +10520,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Chester Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e8",
@@ -10537,7 +10537,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Piedmont Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ed",
@@ -10554,7 +10554,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f2",
@@ -10571,7 +10571,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fontana Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f7",
@@ -10588,7 +10588,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Burnsville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864fc",
@@ -10605,7 +10605,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Norfolk Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86501",
@@ -10622,7 +10622,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Hopewell Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86506",
@@ -10639,7 +10639,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650b",
@@ -10656,7 +10656,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86510",
@@ -10673,7 +10673,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Redlands Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86515",
@@ -10690,7 +10690,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tampa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651a",
@@ -10707,7 +10707,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Winslow Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651f",
@@ -10724,7 +10724,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86524",
@@ -10741,7 +10741,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86529",
@@ -10758,7 +10758,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652e",
@@ -10775,7 +10775,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Minneapolis Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86533",
@@ -10792,7 +10792,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Jackson County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86538",
@@ -10809,7 +10809,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Arkansas Department of Corrections",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653d",
@@ -10826,7 +10826,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86542",
@@ -10843,7 +10843,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86547",
@@ -10860,7 +10860,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Franklin County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654c",
@@ -10877,7 +10877,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Muncie Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86551",
@@ -10894,7 +10894,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Refugio County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86556",
@@ -10911,7 +10911,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "El Paso Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655b",
@@ -10928,7 +10928,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Blount County Sheriff's Office, Marshall County Sheriff's Office, Snead Police Department, Blountsville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86560",
@@ -10945,7 +10945,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Silver City Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86565",
@@ -10962,7 +10962,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Fort Pierce Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656a",
@@ -10979,7 +10979,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Henderson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656f",
@@ -10996,7 +10996,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Seguin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86574",
@@ -11013,7 +11013,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86579",
@@ -11030,7 +11030,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Pinal County Sheriff's Office, Maricopa County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657e",
@@ -11047,7 +11047,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86583",
@@ -11064,7 +11064,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Temecula Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86588",
@@ -11081,7 +11081,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pinellas County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658d",
@@ -11098,7 +11098,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Saint Paul Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86592",
@@ -11115,7 +11115,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Plymouth County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86597",
@@ -11132,7 +11132,7 @@ state: "AR",
 cause: "Death in custody",
 dept: "Franklin County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659c",
@@ -11149,7 +11149,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Henry County Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a1",
@@ -11166,7 +11166,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Clayton County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a6",
@@ -11183,7 +11183,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Missouri State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ab",
@@ -11200,7 +11200,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b0",
@@ -11217,7 +11217,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Coconino County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b5",
@@ -11234,7 +11234,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Boulder Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ba",
@@ -11251,7 +11251,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "US Marshals",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865bf",
@@ -11268,7 +11268,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Lansing Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c4",
@@ -11285,7 +11285,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indiana State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c9",
@@ -11302,7 +11302,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Rockingham County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ce",
@@ -11319,7 +11319,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d3",
@@ -11336,7 +11336,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Coweta County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d8",
@@ -11353,7 +11353,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Alaska State Troopers",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865dd",
@@ -11370,7 +11370,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Cape Coral Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e2",
@@ -11387,7 +11387,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Culpeper County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e7",
@@ -11404,7 +11404,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "York County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ec",
@@ -11421,7 +11421,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Pueblo Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f1",
@@ -11438,7 +11438,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Tupelo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f6",
@@ -11455,7 +11455,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Schenectady Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865fb",
@@ -11472,7 +11472,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Lafayette County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86600",
@@ -11489,7 +11489,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Butte Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86605",
@@ -11506,7 +11506,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Tupelo Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660a",
@@ -11523,7 +11523,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Jasper County Sheriff's Office, Hardeeville Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660f",
@@ -11540,7 +11540,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86614",
@@ -11557,7 +11557,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin County Sheriff's Office, Bellville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86619",
@@ -11574,7 +11574,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661e",
@@ -11591,7 +11591,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pinellas Park Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86623",
@@ -11608,7 +11608,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Columbia Township Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86628",
@@ -11625,7 +11625,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Boone Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662d",
@@ -11642,7 +11642,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Knox County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86632",
@@ -11659,7 +11659,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86637",
@@ -11676,7 +11676,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Spartanburg County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663c",
@@ -11693,7 +11693,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Anaheim Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86641",
@@ -11710,7 +11710,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86646",
@@ -11727,7 +11727,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Baton Rouge Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664b",
@@ -11744,7 +11744,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Rush Springs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86650",
@@ -11761,7 +11761,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Selma Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86655",
@@ -11778,7 +11778,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis County Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665a",
@@ -11795,7 +11795,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Berrien County Courthouse",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665f",
@@ -11812,7 +11812,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86664",
@@ -11829,7 +11829,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86669",
@@ -11846,7 +11846,7 @@ state: "LA",
 cause: "Taser",
 dept: "Louisiana State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666e",
@@ -11863,7 +11863,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86673",
@@ -11880,7 +11880,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department, California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86678",
@@ -11897,7 +11897,7 @@ state: "TN",
 cause: "Death in custody",
 dept: "Blount County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667d",
@@ -11914,7 +11914,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86682",
@@ -11931,7 +11931,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86687",
@@ -11948,7 +11948,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668c",
@@ -11965,7 +11965,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Manchester Township Division of Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86691",
@@ -11982,7 +11982,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86696",
@@ -11999,7 +11999,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Minnesota Bureau of Criminal Apprehension",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669b",
@@ -12016,7 +12016,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Hawkins County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a0",
@@ -12033,7 +12033,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pasco County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a5",
@@ -12050,7 +12050,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866aa",
@@ -12067,7 +12067,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Punta Gorda Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866af",
@@ -12084,7 +12084,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Lexington Fire Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b4",
@@ -12101,7 +12101,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Seminole County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b9",
@@ -12118,7 +12118,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hayward Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866be",
@@ -12135,7 +12135,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c3",
@@ -12152,7 +12152,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Kelso Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c8",
@@ -12169,7 +12169,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866cd",
@@ -12186,7 +12186,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "New London Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d2",
@@ -12203,7 +12203,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Indio Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d7",
@@ -12220,7 +12220,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Shelbyville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866dc",
@@ -12237,7 +12237,7 @@ state: "OR",
 cause: "Struck by vehicle",
 dept: "Redmond Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e1",
@@ -12254,7 +12254,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Trenton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e6",
@@ -12271,7 +12271,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Pierce County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866eb",
@@ -12288,7 +12288,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f0",
@@ -12305,7 +12305,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Huntington Park Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f5",
@@ -12322,7 +12322,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Illinois State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866fa",
@@ -12339,7 +12339,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ff",
@@ -12356,7 +12356,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86704",
@@ -12373,7 +12373,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Wyoming Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86709",
@@ -12390,7 +12390,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Auburn Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670e",
@@ -12407,7 +12407,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Cedar Rapids Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86713",
@@ -12424,7 +12424,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86718",
@@ -12441,7 +12441,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671d",
@@ -12458,7 +12458,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Beaumont Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86722",
@@ -12475,7 +12475,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Precinct 4 Constable's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86727",
@@ -12492,7 +12492,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Metropolitan Nashville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672c",
@@ -12509,7 +12509,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86731",
@@ -12526,7 +12526,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86736",
@@ -12543,7 +12543,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Valdosta Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673b",
@@ -12560,7 +12560,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86740",
@@ -12577,7 +12577,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Putnam County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86745",
@@ -12594,7 +12594,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Bakersfield Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674a",
@@ -12611,7 +12611,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Mackinac County Sheriff's Office, Michigan State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674f",
@@ -12628,7 +12628,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86754",
@@ -12645,7 +12645,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86759",
@@ -12662,7 +12662,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Wetumka Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675e",
@@ -12679,7 +12679,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Midland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86763",
@@ -12696,7 +12696,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Concord Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86768",
@@ -12713,7 +12713,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Kent Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676d",
@@ -12730,7 +12730,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Lee County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86772",
@@ -12747,7 +12747,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86777",
@@ -12764,7 +12764,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Paris Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677c",
@@ -12781,7 +12781,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86781",
@@ -12798,7 +12798,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86786",
@@ -12815,7 +12815,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Little Rock Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678b",
@@ -12832,7 +12832,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Bartlesville Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86790",
@@ -12849,7 +12849,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Stevens County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86795",
@@ -12866,7 +12866,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679a",
@@ -12883,7 +12883,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Nevada Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679f",
@@ -12900,7 +12900,7 @@ state: "NY",
 cause: "Taser",
 dept: "New York Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a4",
@@ -12917,7 +12917,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Palm Springs Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a9",
@@ -12934,7 +12934,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pinellas County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ae",
@@ -12951,7 +12951,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Aiken County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b3",
@@ -12968,7 +12968,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department, Aurora Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b8",
@@ -12985,7 +12985,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Angelo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867bd",
@@ -13002,7 +13002,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Granville County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c2",
@@ -13019,7 +13019,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c7",
@@ -13036,7 +13036,7 @@ state: "IN",
 cause: "Struck by vehicle",
 dept: "Lawrence Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867cc",
@@ -13053,7 +13053,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Redding Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d1",
@@ -13070,7 +13070,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Casa Grande Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d6",
@@ -13087,7 +13087,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867db",
@@ -13104,7 +13104,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "South Gate Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e0",
@@ -13121,7 +13121,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Newark Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e5",
@@ -13138,7 +13138,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ea",
@@ -13155,7 +13155,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Surprise Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ef",
@@ -13172,7 +13172,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Ohio State University Police Division",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f4",
@@ -13189,7 +13189,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Anderson County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f9",
@@ -13206,7 +13206,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Pierce County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867fe",
@@ -13223,7 +13223,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Las Cruces Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86803",
@@ -13240,7 +13240,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orange City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86808",
@@ -13257,7 +13257,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Sioux City Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680d",
@@ -13274,7 +13274,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Hawaii Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86812",
@@ -13291,7 +13291,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86817",
@@ -13308,7 +13308,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Byron Police Department, Peach County Drug Taskforce",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681c",
@@ -13325,7 +13325,7 @@ state: "NC",
 cause: "Taser",
 dept: "Badin Police Department, Stanly County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86821",
@@ -13342,7 +13342,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86826",
@@ -13359,7 +13359,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Pharr Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682b",
@@ -13376,7 +13376,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Knox City Police Department, Starke County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86830",
@@ -13393,7 +13393,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Reno Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86835",
@@ -13410,7 +13410,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Gadsden Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683a",
@@ -13427,7 +13427,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington Metropolitan Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683f",
@@ -13444,7 +13444,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "North Riverside Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86844",
@@ -13461,7 +13461,7 @@ state: "FL",
 cause: "Taser",
 dept: "Pasco County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86849",
@@ -13478,7 +13478,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f8f",
@@ -13495,7 +13495,7 @@ state: "HI",
 cause: "Struck by vehicle",
 dept: "Kauai Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f94",
@@ -13512,7 +13512,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Evans Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f99",
@@ -13529,7 +13529,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "US Marshals Service, Pennsylvania State Police, Allegheny County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9e",
@@ -13546,7 +13546,7 @@ state: "NE",
 cause: "Death in custody",
 dept: "Norfolk Police Division",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa3",
@@ -13563,7 +13563,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "El Paso Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa8",
@@ -13580,7 +13580,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fad",
@@ -13597,7 +13597,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Lake Jackson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb2",
@@ -13614,7 +13614,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Louisiana State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb7",
@@ -13631,7 +13631,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fbc",
@@ -13648,7 +13648,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Rangers, ATF",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc1",
@@ -13665,7 +13665,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc6",
@@ -13682,7 +13682,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Mississippi Gaming Commission",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fcb",
@@ -13699,7 +13699,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Levelland Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd0",
@@ -13716,7 +13716,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Winslow Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd5",
@@ -13733,7 +13733,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fda",
@@ -13750,7 +13750,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fdf",
@@ -13767,7 +13767,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Billings Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe4",
@@ -13784,7 +13784,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Hummelstown Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe9",
@@ -13801,7 +13801,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Douglas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fee",
@@ -13818,7 +13818,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Waco Police Department, McLennan County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff3",
@@ -13835,7 +13835,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff8",
@@ -13852,7 +13852,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ffd",
@@ -13869,7 +13869,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Pasco Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86002",
@@ -13886,7 +13886,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Tallapoosa County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86007",
@@ -13903,7 +13903,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Laredo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600c",
@@ -13920,7 +13920,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Pinal County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86011",
@@ -13937,7 +13937,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Eaton County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86016",
@@ -13954,7 +13954,7 @@ state: "CA",
 cause: "Taser",
 dept: "Yuba County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601b",
@@ -13971,7 +13971,7 @@ state: "OK",
 cause: "Taser",
 dept: "Osage Nation Police Department, Osage County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86020",
@@ -13988,7 +13988,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Cobb County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86025",
@@ -14005,7 +14005,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Terre Haute Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602a",
@@ -14022,7 +14022,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Lakeland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602f",
@@ -14039,7 +14039,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Boone County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86034",
@@ -14056,7 +14056,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Wellston Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86039",
@@ -14073,7 +14073,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Joliet Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603e",
@@ -14090,7 +14090,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "US Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86043",
@@ -14107,7 +14107,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86048",
@@ -14124,7 +14124,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604d",
@@ -14141,7 +14141,7 @@ state: "NJ",
 cause: "Struck by vehicle",
 dept: "Bergen County Prosecutor's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86052",
@@ -14158,7 +14158,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Hoover Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86057",
@@ -14175,7 +14175,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Cecil County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605c",
@@ -14192,7 +14192,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Arlington Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86061",
@@ -14209,7 +14209,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "US Marshals Service",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86066",
@@ -14226,7 +14226,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "St Paul Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606b",
@@ -14243,7 +14243,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Bladen County Sheriff's Office and Bladenboro Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86070",
@@ -14260,7 +14260,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Canyon County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86075",
@@ -14277,7 +14277,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "US Border Patrol",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607a",
@@ -14294,7 +14294,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma Highway Patrol, Tupelo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607f",
@@ -14311,7 +14311,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Orleans County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86084",
@@ -14328,7 +14328,7 @@ state: "KY",
 cause: "Death in custody",
 dept: "Whitley County Sheriff's Department, Kentucky State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86089",
@@ -14345,7 +14345,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608e",
@@ -14362,7 +14362,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Gardner Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86093",
@@ -14379,7 +14379,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Boston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86098",
@@ -14396,7 +14396,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Elizabethtown Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609d",
@@ -14413,7 +14413,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Boulder City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a2",
@@ -14430,7 +14430,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hawthorne Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a7",
@@ -14447,7 +14447,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Metropolis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ac",
@@ -14464,7 +14464,7 @@ state: "WA",
 cause: "Taser",
 dept: "US Forest Service",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b1",
@@ -14481,7 +14481,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b6",
@@ -14498,7 +14498,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860bb",
@@ -14515,7 +14515,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Santa Rosa County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c0",
@@ -14532,7 +14532,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Sampson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c5",
@@ -14549,7 +14549,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Jonesboro Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ca",
@@ -14566,7 +14566,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Spartanburg Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860cf",
@@ -14583,7 +14583,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Shafter Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d4",
@@ -14600,7 +14600,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Panama City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d9",
@@ -14617,7 +14617,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860de",
@@ -14634,7 +14634,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Portsmouth Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e3",
@@ -14651,7 +14651,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e8",
@@ -14668,7 +14668,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Salem Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ed",
@@ -14685,7 +14685,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma Department of Wildlife Conservation",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f2",
@@ -14702,7 +14702,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Marion Police Department, Illinois State Police and Williamson County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f7",
@@ -14719,7 +14719,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "El Paso Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860fc",
@@ -14736,7 +14736,7 @@ state: "DE",
 cause: "Gunshot",
 dept: "Smyrna Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86101",
@@ -14753,7 +14753,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Benton County Sheriff's Office, Richland Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86106",
@@ -14770,7 +14770,7 @@ state: "NJ",
 cause: "Struck by vehicle",
 dept: "New Jersey State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610b",
@@ -14787,7 +14787,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Beacon Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86110",
@@ -14804,7 +14804,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Oswego County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86115",
@@ -14821,7 +14821,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Tacoma Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611a",
@@ -14838,7 +14838,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police, Kalamazoo County Sheriff's Office and Portage Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611f",
@@ -14855,7 +14855,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86124",
@@ -14872,7 +14872,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "DeKalb County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86129",
@@ -14889,7 +14889,7 @@ state: "MD",
 cause: "Death in custody",
 dept: "Baltimore Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612e",
@@ -14906,7 +14906,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Lancaster Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86133",
@@ -14923,7 +14923,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "North Charleston Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86138",
@@ -14940,7 +14940,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Fort Lauderdale Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613d",
@@ -14957,7 +14957,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Eagar Police Department and Apache County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86142",
@@ -14974,7 +14974,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Monmouth County Emergency Response Team",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86147",
@@ -14991,7 +14991,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Putnam County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614c",
@@ -15008,7 +15008,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Trenton Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86151",
@@ -15025,7 +15025,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Metro Nashville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86156",
@@ -15042,7 +15042,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Boston Police Department and FBI",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615b",
@@ -15059,7 +15059,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Byram Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86160",
@@ -15076,7 +15076,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86165",
@@ -15093,7 +15093,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Watsonville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616a",
@@ -15110,7 +15110,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Woodland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616f",
@@ -15127,7 +15127,7 @@ state: "NY",
 cause: "Taser",
 dept: "New York Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86174",
@@ -15144,7 +15144,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Montgomery County Sheriff's Office, Tomball Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86179",
@@ -15161,7 +15161,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Columbia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617e",
@@ -15178,7 +15178,7 @@ state: "WV",
 cause: "Death in custody",
 dept: "West Virginia Division of Corrections",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86183",
@@ -15195,7 +15195,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Brevard County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86188",
@@ -15212,7 +15212,7 @@ state: "FL",
 cause: "Death in custody",
 dept: "Indian River County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618d",
@@ -15229,7 +15229,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86192",
@@ -15246,7 +15246,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Wilkes County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86197",
@@ -15263,7 +15263,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619c",
@@ -15280,7 +15280,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a1",
@@ -15297,7 +15297,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Portland Police Bureau",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a6",
@@ -15314,7 +15314,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Yamhill County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ab",
@@ -15331,7 +15331,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Beach Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b0",
@@ -15348,7 +15348,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Camden County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b5",
@@ -15365,7 +15365,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Henderson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ba",
@@ -15382,7 +15382,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Pleasanton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861bf",
@@ -15399,7 +15399,7 @@ state: "FL",
 cause: "Taser",
 dept: "Miami Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c4",
@@ -15416,7 +15416,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c9",
@@ -15433,7 +15433,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Independence Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ce",
@@ -15450,7 +15450,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d3",
@@ -15467,7 +15467,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d8",
@@ -15484,7 +15484,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Yuba County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861dd",
@@ -15501,7 +15501,7 @@ state: "OH",
 cause: "Struck by vehicle",
 dept: "Franklin County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e2",
@@ -15518,7 +15518,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Lake County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e7",
@@ -15535,7 +15535,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ec",
@@ -15552,7 +15552,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Chattanooga Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f1",
@@ -15569,7 +15569,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f6",
@@ -15586,7 +15586,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861fb",
@@ -15603,7 +15603,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Chambers County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86200",
@@ -15620,7 +15620,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Opp Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86205",
@@ -15637,7 +15637,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620a",
@@ -15654,7 +15654,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620f",
@@ -15671,7 +15671,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Shreveport Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86214",
@@ -15688,7 +15688,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Bradley County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86219",
@@ -15705,7 +15705,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Logan Police Department, Cache County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621e",
@@ -15722,7 +15722,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86223",
@@ -15739,7 +15739,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tuscon Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86228",
@@ -15756,7 +15756,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Muncie Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622d",
@@ -15773,7 +15773,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Greenfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86232",
@@ -15790,7 +15790,7 @@ state: "GA",
 cause: "Taser",
 dept: "DeKalb County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86237",
@@ -15807,7 +15807,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623c",
@@ -15824,7 +15824,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Gaston County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86241",
@@ -15841,7 +15841,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86246",
@@ -15858,7 +15858,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Waco Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624b",
@@ -15875,7 +15875,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Lea County Sheriff's Department and Hobbs Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86250",
@@ -15892,7 +15892,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Jefferson County IN Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86255",
@@ -15909,7 +15909,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625a",
@@ -15926,7 +15926,7 @@ state: "NY",
 cause: "Death in custody",
 dept: "New York Department of Corrections and Community Supervision",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625f",
@@ -15943,7 +15943,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Maggie Valley Police Department, Haywood County Sheriff's Office, and Waynesville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86264",
@@ -15960,7 +15960,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86269",
@@ -15977,7 +15977,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Wichita Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626e",
@@ -15994,7 +15994,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86273",
@@ -16011,7 +16011,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86278",
@@ -16028,7 +16028,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oakland Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627d",
@@ -16045,7 +16045,7 @@ state: "VA",
 cause: "Struck by vehicle",
 dept: "Virginia State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86282",
@@ -16062,7 +16062,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86287",
@@ -16079,7 +16079,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Longview Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628c",
@@ -16096,7 +16096,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Carlsbad Police Department, Lake Arthur Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86291",
@@ -16113,7 +16113,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hoopa Valley Tribal Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86296",
@@ -16130,7 +16130,7 @@ state: "CA",
 cause: "Taser",
 dept: "Long Beach Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629b",
@@ -16147,7 +16147,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Shreveport Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a0",
@@ -16164,7 +16164,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a5",
@@ -16181,7 +16181,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Alaska State Troopers and Fairbanks Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862aa",
@@ -16198,7 +16198,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Federal Bureau of Investigation",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862af",
@@ -16215,7 +16215,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b4",
@@ -16232,7 +16232,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b9",
@@ -16249,7 +16249,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862be",
@@ -16266,7 +16266,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c3",
@@ -16283,7 +16283,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c8",
@@ -16300,7 +16300,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862cd",
@@ -16317,7 +16317,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sand City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d2",
@@ -16334,7 +16334,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Shasta County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d7",
@@ -16351,7 +16351,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "McKinney Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862dc",
@@ -16368,7 +16368,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Akron Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e1",
@@ -16385,7 +16385,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Lovington Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e6",
@@ -16402,7 +16402,7 @@ state: "IN",
 cause: "Struck by vehicle",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862eb",
@@ -16419,7 +16419,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Rialto Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f0",
@@ -16436,7 +16436,7 @@ state: "GA",
 cause: "Struck by vehicle",
 dept: "Georgia State Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f5",
@@ -16453,7 +16453,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Woodbridge Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862fa",
@@ -16470,7 +16470,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Connecticut State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ff",
@@ -16487,7 +16487,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86304",
@@ -16504,7 +16504,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Brookhaven Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86309",
@@ -16521,7 +16521,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630e",
@@ -16538,7 +16538,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86313",
@@ -16555,7 +16555,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Columbus Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86318",
@@ -16572,7 +16572,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "US Immigration and Customs Enforcement",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631d",
@@ -16589,7 +16589,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Jeffersontown Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86322",
@@ -16606,7 +16606,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Sierra County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86327",
@@ -16623,7 +16623,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632c",
@@ -16640,7 +16640,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Cathedral City Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86331",
@@ -16657,7 +16657,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86336",
@@ -16674,7 +16674,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Midwest City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633b",
@@ -16691,7 +16691,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86340",
@@ -16708,7 +16708,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86345",
@@ -16725,7 +16725,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Hutchinson Police Department, McLeod County Sheriff's Office, Minnesota State Patrol",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634a",
@@ -16742,7 +16742,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634f",
@@ -16759,7 +16759,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Monongalia County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86354",
@@ -16776,7 +16776,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "DeLand Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86359",
@@ -16793,7 +16793,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Spartanburg Methodist College Campus Safety Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635e",
@@ -16810,7 +16810,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado State Patrol, Longmont Police Department, Adams County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86363",
@@ -16827,7 +16827,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Aiken County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86368",
@@ -16844,7 +16844,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sunnyvale Bureau of Police Services",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636d",
@@ -16861,7 +16861,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Harnett County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86372",
@@ -16878,7 +16878,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Minneapolis Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86377",
@@ -16895,7 +16895,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Little Egg Harbor Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637c",
@@ -16912,7 +16912,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Manatee County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86381",
@@ -16929,7 +16929,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Paulding County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86386",
@@ -16946,7 +16946,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638b",
@@ -16963,7 +16963,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86390",
@@ -16980,7 +16980,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Stone County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86395",
@@ -16997,7 +16997,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Maricopa County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639a",
@@ -17014,7 +17014,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639f",
@@ -17031,7 +17031,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Deuel County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a4",
@@ -17048,7 +17048,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a9",
@@ -17065,7 +17065,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Indio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ae",
@@ -17082,7 +17082,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b3",
@@ -17099,7 +17099,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cleveland Metroparks Ranger Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b8",
@@ -17116,7 +17116,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "University of North Texas Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863bd",
@@ -17133,7 +17133,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Mountain View Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c2",
@@ -17150,7 +17150,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c7",
@@ -17167,7 +17167,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863cc",
@@ -17184,7 +17184,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Modesto Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d1",
@@ -17201,7 +17201,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Paradise Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d6",
@@ -17218,7 +17218,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Martin Parish Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863db",
@@ -17235,7 +17235,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hernando County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e0",
@@ -17252,7 +17252,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e5",
@@ -17269,7 +17269,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Lansing Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ea",
@@ -17286,7 +17286,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "George County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ef",
@@ -17303,7 +17303,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Merced County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f4",
@@ -17320,7 +17320,7 @@ state: "CO",
 cause: "Struck by vehicle",
 dept: "Weld County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f9",
@@ -17337,7 +17337,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pittsburgh Bureau of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863fe",
@@ -17354,7 +17354,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Jal Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86403",
@@ -17371,7 +17371,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New Paltz Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86408",
@@ -17388,7 +17388,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Newark Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640d",
@@ -17405,7 +17405,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86412",
@@ -17422,7 +17422,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Redding Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86417",
@@ -17439,7 +17439,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641c",
@@ -17456,7 +17456,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86421",
@@ -17473,7 +17473,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Norfolk Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86426",
@@ -17490,7 +17490,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642b",
@@ -17507,7 +17507,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Beach County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86430",
@@ -17524,7 +17524,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86435",
@@ -17541,7 +17541,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643a",
@@ -17558,7 +17558,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Iredell County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643f",
@@ -17575,7 +17575,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Landry Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86444",
@@ -17592,7 +17592,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Clanton Police Department, Chilton County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86449",
@@ -17609,7 +17609,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Dearborn Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644e",
@@ -17626,7 +17626,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Dillon County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86453",
@@ -17643,7 +17643,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Tacoma Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86458",
@@ -17660,7 +17660,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Walker County Sheriff's Office, Catoosa County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645d",
@@ -17677,7 +17677,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Collier County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86462",
@@ -17694,7 +17694,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "City of Carbondale Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86467",
@@ -17711,7 +17711,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646c",
@@ -17728,7 +17728,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Hawaii Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86471",
@@ -17745,7 +17745,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Antioch Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86476",
@@ -17762,7 +17762,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647b",
@@ -17779,7 +17779,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Hawaii Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86480",
@@ -17796,7 +17796,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Roseville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86485",
@@ -17813,7 +17813,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Maiden Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648a",
@@ -17830,7 +17830,7 @@ state: "GA",
 cause: "Struck by vehicle",
 dept: "Fulton County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648f",
@@ -17847,7 +17847,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86494",
@@ -17864,7 +17864,7 @@ state: "TX",
 cause: "Taser",
 dept: "Donna Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86499",
@@ -17881,7 +17881,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649e",
@@ -17898,7 +17898,7 @@ state: "CO",
 cause: "Struck by vehicle",
 dept: "Westminster Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a3",
@@ -17915,7 +17915,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a8",
@@ -17932,7 +17932,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ad",
@@ -17949,7 +17949,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Fairborn Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b2",
@@ -17966,7 +17966,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Blue Springs Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b7",
@@ -17983,7 +17983,7 @@ state: "NE",
 cause: "Taser",
 dept: "Bellevue Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864bc",
@@ -18000,7 +18000,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Pennington County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c1",
@@ -18017,7 +18017,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Raleigh Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c6",
@@ -18034,7 +18034,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Harford County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864cb",
@@ -18051,7 +18051,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Cheektowaga Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d0",
@@ -18068,7 +18068,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Azle Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d5",
@@ -18085,7 +18085,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Carlsbad Police Department, Eddy County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864da",
@@ -18102,7 +18102,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Biloxi Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e4",
@@ -18119,7 +18119,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864df",
@@ -18136,7 +18136,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Newark (CA) Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e9",
@@ -18153,7 +18153,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "West Covina Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ee",
@@ -18170,7 +18170,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Russellville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f3",
@@ -18187,7 +18187,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f8",
@@ -18204,7 +18204,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tampa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864fd",
@@ -18221,7 +18221,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Park Forest Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86502",
@@ -18238,7 +18238,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Fort Wayne Police Department, Indiana State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86507",
@@ -18255,7 +18255,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Stamford Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650c",
@@ -18272,7 +18272,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86511",
@@ -18289,7 +18289,7 @@ state: "RI",
 cause: "Gunshot",
 dept: "Pawtucket Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86516",
@@ -18306,7 +18306,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Myrtle Beach Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651b",
@@ -18323,7 +18323,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Lee's Summit Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86520",
@@ -18340,7 +18340,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Aitkin County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86525",
@@ -18357,7 +18357,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652a",
@@ -18374,7 +18374,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Eau Claire County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652f",
@@ -18391,7 +18391,7 @@ state: "OK",
 cause: "Death in custody",
 dept: "Caddo County Sheriff’s Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86534",
@@ -18408,7 +18408,7 @@ state: "FL",
 cause: "Taser",
 dept: "Manatee County Sheriff’s Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86539",
@@ -18425,7 +18425,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653e",
@@ -18442,7 +18442,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Modesto Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86543",
@@ -18459,7 +18459,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86548",
@@ -18476,7 +18476,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654d",
@@ -18493,7 +18493,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Comanche County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86552",
@@ -18510,7 +18510,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Dayton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86557",
@@ -18527,7 +18527,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Greenbelt Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655c",
@@ -18544,7 +18544,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86561",
@@ -18561,7 +18561,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86566",
@@ -18578,7 +18578,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Norfolk Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656b",
@@ -18595,7 +18595,7 @@ state: "HI",
 cause: "Death in custody",
 dept: "Hawaii Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86570",
@@ -18612,7 +18612,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Larwrence Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86575",
@@ -18629,7 +18629,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Constable Precinct 5",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657a",
@@ -18646,7 +18646,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Utah County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657f",
@@ -18663,7 +18663,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Visalia Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86584",
@@ -18680,7 +18680,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86589",
@@ -18697,7 +18697,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Snohomish County Sheriff's Office, Everett Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658e",
@@ -18714,7 +18714,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Jackson County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86593",
@@ -18731,7 +18731,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86598",
@@ -18748,7 +18748,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Newark Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659d",
@@ -18765,7 +18765,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a2",
@@ -18782,7 +18782,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Illinois State Police, FBI",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a7",
@@ -18799,7 +18799,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ac",
@@ -18816,7 +18816,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b1",
@@ -18833,7 +18833,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Florence County Sheriff's Office, South Carolina Law Enforcement Division",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b6",
@@ -18850,7 +18850,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865bb",
@@ -18867,7 +18867,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c0",
@@ -18884,7 +18884,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "United States Marshals Service, Caseyville Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c5",
@@ -18901,7 +18901,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ca",
@@ -18918,7 +18918,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Clinton Police Department, North Carolina Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865cf",
@@ -18935,7 +18935,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Tualatin Police Department, Beaverton Police Department, Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d4",
@@ -18952,7 +18952,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Norfolk Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d9",
@@ -18969,7 +18969,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Oglala Sioux Tribe Offices Department of Public Safety",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865de",
@@ -18986,7 +18986,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Calhoun County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e3",
@@ -19003,7 +19003,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Modesto Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e8",
@@ -19020,7 +19020,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Marquette County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ed",
@@ -19037,7 +19037,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Yakima Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f2",
@@ -19054,7 +19054,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orlando Police Department, Orange County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f7",
@@ -19071,7 +19071,7 @@ state: "RI",
 cause: "Gunshot",
 dept: "Tiverton Police Department, Fall River Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865fc",
@@ -19088,7 +19088,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "US Homeland Security",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86601",
@@ -19105,7 +19105,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Westminster Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86606",
@@ -19122,7 +19122,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660b",
@@ -19139,7 +19139,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Lake Havasu City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86610",
@@ -19156,7 +19156,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Beach County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86615",
@@ -19173,7 +19173,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Atlanta Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661a",
@@ -19190,7 +19190,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fulshear Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661f",
@@ -19207,7 +19207,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86624",
@@ -19224,7 +19224,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Thomaston Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86629",
@@ -19241,7 +19241,7 @@ state: "DE",
 cause: "Gunshot",
 dept: "Delaware State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662e",
@@ -19258,7 +19258,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Ouachita Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86633",
@@ -19275,7 +19275,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Madison Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86638",
@@ -19292,7 +19292,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Jackson Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663d",
@@ -19309,7 +19309,7 @@ state: "MS",
 cause: "Death in custody",
 dept: "Canton Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86642",
@@ -19326,7 +19326,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86647",
@@ -19343,7 +19343,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Temecula Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664c",
@@ -19360,7 +19360,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86651",
@@ -19377,7 +19377,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86656",
@@ -19394,7 +19394,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665b",
@@ -19411,7 +19411,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Anchorage Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86660",
@@ -19428,7 +19428,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Anson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86665",
@@ -19445,7 +19445,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Sheboygan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666a",
@@ -19462,7 +19462,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666f",
@@ -19479,7 +19479,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Upshur County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86674",
@@ -19496,7 +19496,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Gallup Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86679",
@@ -19513,7 +19513,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Lincoln County Sheriff's Department, Langlade County Sheriff's Department, Antigo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667e",
@@ -19530,7 +19530,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tempe Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86683",
@@ -19547,7 +19547,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86688",
@@ -19564,7 +19564,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668d",
@@ -19581,7 +19581,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86692",
@@ -19598,7 +19598,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Port Arthur Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86697",
@@ -19615,7 +19615,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Bay Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669c",
@@ -19632,7 +19632,7 @@ state: "AR",
 cause: "Death in custody",
 dept: "Little Rock Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a1",
@@ -19649,7 +19649,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a6",
@@ -19666,7 +19666,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Citrus Heights Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ab",
@@ -19683,7 +19683,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b0",
@@ -19700,7 +19700,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b5",
@@ -19717,7 +19717,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ba",
@@ -19734,7 +19734,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Fairfax County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866bf",
@@ -19751,7 +19751,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c4",
@@ -19768,7 +19768,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c9",
@@ -19785,7 +19785,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "North Carolina State Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ce",
@@ -19802,7 +19802,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Washoe County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d3",
@@ -19819,7 +19819,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Las Cruces Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d8",
@@ -19836,7 +19836,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Saint Jo Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866dd",
@@ -19853,7 +19853,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Nevada Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e2",
@@ -19870,7 +19870,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Eagan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e7",
@@ -19887,7 +19887,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hillsborough County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ec",
@@ -19904,7 +19904,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f1",
@@ -19921,7 +19921,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Alamogordo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f6",
@@ -19938,7 +19938,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "East Wenatchee Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866fb",
@@ -19955,7 +19955,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86700",
@@ -19972,7 +19972,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86705",
@@ -19989,7 +19989,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Polk County Sheriff's Office, Lake Wales Police Department, Haines City Police Department, Winter Haven Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670a",
@@ -20006,7 +20006,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Broward County Sheriff's Office",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670f",
@@ -20023,7 +20023,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Clara County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86714",
@@ -20040,7 +20040,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86719",
@@ -20057,7 +20057,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671e",
@@ -20074,7 +20074,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Avon Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86723",
@@ -20091,7 +20091,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "St Lucie County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86728",
@@ -20108,7 +20108,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Westminster Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672d",
@@ -20125,7 +20125,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86732",
@@ -20142,7 +20142,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Burnsville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86737",
@@ -20159,7 +20159,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Kingman Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673c",
@@ -20176,7 +20176,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86741",
@@ -20193,7 +20193,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86746",
@@ -20210,7 +20210,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Lynn Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674b",
@@ -20227,7 +20227,7 @@ state: "CA",
 cause: "Taser",
 dept: "Burbank Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86750",
@@ -20244,7 +20244,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Fort Wayne Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86755",
@@ -20261,7 +20261,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Duncanville Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675a",
@@ -20278,7 +20278,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Federal Way Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675f",
@@ -20295,7 +20295,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86764",
@@ -20312,7 +20312,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Livingston Parish Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86769",
@@ -20329,7 +20329,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Grants Pass Department of Public Safety",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676e",
@@ -20346,7 +20346,7 @@ state: "NV",
 cause: "Death in custody",
 dept: "Sparks Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86773",
@@ -20363,7 +20363,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Benton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86778",
@@ -20380,7 +20380,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677d",
@@ -20397,7 +20397,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Kings County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86782",
@@ -20414,7 +20414,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado Springs Police Department, El Paso County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86787",
@@ -20431,7 +20431,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678c",
@@ -20448,7 +20448,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Billings Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86791",
@@ -20465,7 +20465,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "North Royalton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86796",
@@ -20482,7 +20482,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679b",
@@ -20499,7 +20499,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Joaquin County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a0",
@@ -20516,7 +20516,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Salisbury Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a5",
@@ -20533,7 +20533,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Forks Police Department, Clallam County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867aa",
@@ -20550,7 +20550,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Kanawha County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867af",
@@ -20567,7 +20567,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b4",
@@ -20584,7 +20584,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Azusa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b9",
@@ -20601,7 +20601,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Polk County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867be",
@@ -20618,7 +20618,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Boise Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c3",
@@ -20635,7 +20635,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c8",
@@ -20652,7 +20652,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867cd",
@@ -20669,7 +20669,7 @@ state: "MO",
 cause: "Taser",
 dept: "Buchanan County Sheriff’s Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d2",
@@ -20686,7 +20686,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d7",
@@ -20703,7 +20703,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867dc",
@@ -20720,7 +20720,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Hoquiam Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e1",
@@ -20737,7 +20737,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Montgomery County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e6",
@@ -20754,7 +20754,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Jackson Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867eb",
@@ -20771,7 +20771,7 @@ state: "ME",
 cause: "Gunshot",
 dept: "Cumberland County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f0",
@@ -20788,7 +20788,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f5",
@@ -20805,7 +20805,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Hendricks County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867fa",
@@ -20822,7 +20822,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ff",
@@ -20839,7 +20839,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Benton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86804",
@@ -20856,7 +20856,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Portland Police Bureau",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86809",
@@ -20873,7 +20873,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680e",
@@ -20890,7 +20890,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Monroe County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86813",
@@ -20907,7 +20907,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Medicine Lodge Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86818",
@@ -20924,7 +20924,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681d",
@@ -20941,7 +20941,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86822",
@@ -20958,7 +20958,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Clark County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86827",
@@ -20975,7 +20975,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hemet Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682c",
@@ -20992,7 +20992,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86831",
@@ -21009,7 +21009,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Prince George's County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86836",
@@ -21026,7 +21026,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Polk County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683b",
@@ -21043,7 +21043,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86840",
@@ -21060,7 +21060,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86845",
@@ -21077,7 +21077,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Queen Anne's County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8684a",
@@ -21094,7 +21094,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Escambia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f90",
@@ -21111,7 +21111,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Wichita Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f95",
@@ -21128,7 +21128,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Stockton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9a",
@@ -21145,7 +21145,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Des Moines Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9f",
@@ -21162,7 +21162,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Yellowstone County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa4",
@@ -21179,7 +21179,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "England Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa9",
@@ -21196,7 +21196,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Jourdanton Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fae",
@@ -21213,7 +21213,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Old Bridge Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb3",
@@ -21230,7 +21230,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Chesapeake Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb8",
@@ -21247,7 +21247,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fremont Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fbd",
@@ -21264,7 +21264,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Muskogee Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc2",
@@ -21281,7 +21281,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Weymouth Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc7",
@@ -21298,7 +21298,7 @@ state: "NH",
 cause: "Gunshot",
 dept: "Derry Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fcc",
@@ -21315,7 +21315,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd1",
@@ -21332,7 +21332,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd6",
@@ -21349,7 +21349,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Clifton Police Department and Greenlee County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fdb",
@@ -21366,7 +21366,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Wise County Sheriff's Department and Texas DPS",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe0",
@@ -21383,7 +21383,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe5",
@@ -21400,7 +21400,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fea",
@@ -21417,7 +21417,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fef",
@@ -21434,7 +21434,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Corona Police Department, California Highway Patrol",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff4",
@@ -21451,7 +21451,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Kentwood Police Department and Wyoming DPS",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff9",
@@ -21468,7 +21468,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Nocona Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ffe",
@@ -21485,7 +21485,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Garfield County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86003",
@@ -21502,7 +21502,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Kansas City KS Police Department, Kansas Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86008",
@@ -21519,7 +21519,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Provo Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600d",
@@ -21536,7 +21536,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Bay City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86012",
@@ -21553,7 +21553,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Gastonia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86017",
@@ -21570,7 +21570,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Grapevine Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601c",
@@ -21587,7 +21587,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86021",
@@ -21604,7 +21604,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Catasauqua Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86026",
@@ -21621,7 +21621,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602b",
@@ -21638,7 +21638,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Gulfport Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86030",
@@ -21655,7 +21655,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86035",
@@ -21672,7 +21672,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603a",
@@ -21689,7 +21689,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Maryland State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603f",
@@ -21706,7 +21706,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86044",
@@ -21723,7 +21723,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Putnam County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86049",
@@ -21740,7 +21740,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604e",
@@ -21757,7 +21757,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Port Wentworth Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86053",
@@ -21774,7 +21774,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cleveland Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86058",
@@ -21791,7 +21791,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605d",
@@ -21808,7 +21808,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86062",
@@ -21825,7 +21825,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Kenosha Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86067",
@@ -21842,7 +21842,7 @@ state: "HI",
 cause: "Taser",
 dept: "Honolulu Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606c",
@@ -21859,7 +21859,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86071",
@@ -21876,7 +21876,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Glendale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86076",
@@ -21893,7 +21893,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Navajo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607b",
@@ -21910,7 +21910,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86080",
@@ -21927,7 +21927,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Clay County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86085",
@@ -21944,7 +21944,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Clark County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608a",
@@ -21961,7 +21961,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Glendale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608f",
@@ -21978,7 +21978,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86094",
@@ -21995,7 +21995,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86099",
@@ -22012,7 +22012,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "NSA Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609e",
@@ -22029,7 +22029,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Baytown Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a3",
@@ -22046,7 +22046,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Rapides Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a8",
@@ -22063,7 +22063,7 @@ state: "OK",
 cause: "Taser",
 dept: "Warner Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ad",
@@ -22080,7 +22080,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b2",
@@ -22097,7 +22097,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Ocala Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b7",
@@ -22114,7 +22114,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Lowndes County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860bc",
@@ -22131,7 +22131,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Spartanburg County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c1",
@@ -22148,7 +22148,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c6",
@@ -22165,7 +22165,7 @@ state: "NY",
 cause: "Death in custody",
 dept: "New York Department of Corrections and Community Supervision",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860cb",
@@ -22182,7 +22182,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d0",
@@ -22199,7 +22199,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d5",
@@ -22216,7 +22216,7 @@ state: "TX",
 cause: "Taser",
 dept: "San Antonio Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860da",
@@ -22233,7 +22233,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "New Jersey State Police",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860df",
@@ -22250,7 +22250,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Department of Corrections and Rehabilitation",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e4",
@@ -22267,7 +22267,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e9",
@@ -22284,7 +22284,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ee",
@@ -22301,7 +22301,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fountain Valley Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f3",
@@ -22318,7 +22318,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Mansfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f8",
@@ -22335,7 +22335,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Atlanta Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860fd",
@@ -22352,7 +22352,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Garland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86102",
@@ -22369,7 +22369,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86107",
@@ -22386,7 +22386,7 @@ state: "NJ",
 cause: "Struck by vehicle",
 dept: "New Jersey State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610c",
@@ -22403,7 +22403,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Gwinnett County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86111",
@@ -22420,7 +22420,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Prince George's County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86116",
@@ -22437,7 +22437,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611b",
@@ -22454,7 +22454,7 @@ state: "NY",
 cause: "Death in custody",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86120",
@@ -22471,7 +22471,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Ruidoso Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86125",
@@ -22488,7 +22488,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indiana State Police, Tippecanoe County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612a",
@@ -22505,7 +22505,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612f",
@@ -22522,7 +22522,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Grand Junction Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86134",
@@ -22539,7 +22539,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Campbell County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86139",
@@ -22556,7 +22556,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "El Paso Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613e",
@@ -22573,7 +22573,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86143",
@@ -22590,7 +22590,7 @@ state: "KS",
 cause: "Taser",
 dept: "Kansas City KS Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86148",
@@ -22607,7 +22607,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Northglenn Police Department and Thornton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614d",
@@ -22624,7 +22624,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Lyndhurst Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86152",
@@ -22641,7 +22641,7 @@ state: "NY",
 cause: "Taser",
 dept: "Rochester Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86157",
@@ -22658,7 +22658,7 @@ state: "KY",
 cause: "Taser",
 dept: "Louisa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615c",
@@ -22675,7 +22675,7 @@ state: "OH",
 cause: "Death in custody",
 dept: "Knox County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86161",
@@ -22692,7 +22692,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Maria Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86166",
@@ -22709,7 +22709,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Midland Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616b",
@@ -22726,7 +22726,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Melbourne Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86170",
@@ -22743,7 +22743,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Findlay Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86175",
@@ -22760,7 +22760,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Cincinnati Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617a",
@@ -22777,7 +22777,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Hackensack Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617f",
@@ -22794,7 +22794,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Louisville Metro Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86184",
@@ -22811,7 +22811,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "South Lake Tahoe Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86189",
@@ -22828,7 +22828,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Alabama Law Enforcement Agency",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618e",
@@ -22845,7 +22845,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Greeley Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86193",
@@ -22862,7 +22862,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pittsburgh Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86198",
@@ -22879,7 +22879,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Weatherford Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619d",
@@ -22896,7 +22896,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Federal law enforcement agents",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a2",
@@ -22913,7 +22913,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Saratoga County Sheriff's Office, New York State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a7",
@@ -22930,7 +22930,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Brockton Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ac",
@@ -22947,7 +22947,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b1",
@@ -22964,7 +22964,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b6",
@@ -22981,7 +22981,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Morristown Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861bb",
@@ -22998,7 +22998,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c0",
@@ -23015,7 +23015,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c5",
@@ -23032,7 +23032,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Elizabethtown Police Depatment",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ca",
@@ -23049,7 +23049,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Atwater Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f91",
@@ -23066,7 +23066,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Mason County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f96",
@@ -23083,7 +23083,7 @@ state: "CA",
 cause: "Taser",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9b",
@@ -23100,7 +23100,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Rosemont Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa0",
@@ -23117,7 +23117,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Union County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa5",
@@ -23134,7 +23134,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "South Gate Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85faa",
@@ -23151,7 +23151,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "St Paul Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85faf",
@@ -23168,7 +23168,7 @@ state: "NY",
 cause: "Struck by vehicle",
 dept: "New York State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb4",
@@ -23185,7 +23185,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fairfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb9",
@@ -23202,7 +23202,7 @@ state: "MN",
 cause: "Taser",
 dept: "Brooklyn Center Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fbe",
@@ -23219,7 +23219,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc3",
@@ -23236,7 +23236,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc8",
@@ -23253,7 +23253,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Longview Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fcd",
@@ -23270,7 +23270,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd2",
@@ -23287,7 +23287,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Kern County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd7",
@@ -23304,7 +23304,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police, Ohio State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fdc",
@@ -23321,7 +23321,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe1",
@@ -23338,7 +23338,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe6",
@@ -23355,7 +23355,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85feb",
@@ -23372,7 +23372,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tempe, Chandler and Mesa Police Departments [US Marshals Service Task Force]",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff0",
@@ -23389,7 +23389,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tallahassee Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff5",
@@ -23406,7 +23406,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Gastonia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ffa",
@@ -23423,7 +23423,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fff",
@@ -23440,7 +23440,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86004",
@@ -23457,7 +23457,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86009",
@@ -23474,7 +23474,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Gardens Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600e",
@@ -23491,7 +23491,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Boise Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86013",
@@ -23508,7 +23508,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Del Rio Police Department and Val Verde County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86018",
@@ -23525,7 +23525,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Homewood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601d",
@@ -23542,7 +23542,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Habersham County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86022",
@@ -23559,7 +23559,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Denham Springs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86027",
@@ -23576,7 +23576,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metro Police (Swat)",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602c",
@@ -23593,7 +23593,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86031",
@@ -23610,7 +23610,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Tarboro Police Department and Edgecombe Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86036",
@@ -23627,7 +23627,7 @@ state: "OK",
 cause: "Taser",
 dept: "Oklahoma City Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603b",
@@ -23644,7 +23644,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tempe Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86040",
@@ -23661,7 +23661,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Milwaukee Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86045",
@@ -23678,7 +23678,7 @@ state: "GA",
 cause: "Struck by vehicle",
 dept: "Atlanta Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604a",
@@ -23695,7 +23695,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Brevard County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604f",
@@ -23712,7 +23712,7 @@ state: "OH",
 cause: "Taser",
 dept: "Mansfield Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86054",
@@ -23729,7 +23729,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "South Gate Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86059",
@@ -23746,7 +23746,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Baldwin County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605e",
@@ -23763,7 +23763,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fontana Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86063",
@@ -23780,7 +23780,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86068",
@@ -23797,7 +23797,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Gaston County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606d",
@@ -23814,7 +23814,7 @@ state: "GA",
 cause: "Taser",
 dept: "Floyd County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86072",
@@ -23831,7 +23831,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tallahassee Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86077",
@@ -23848,7 +23848,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Kent Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607c",
@@ -23865,7 +23865,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86081",
@@ -23882,7 +23882,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Suffolk County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86086",
@@ -23899,7 +23899,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Smyrna Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608b",
@@ -23916,7 +23916,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Johnsonville Police Department, Florence County Sheriff's Department (Swat)",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86090",
@@ -23933,7 +23933,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oxnard Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86095",
@@ -23950,7 +23950,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609a",
@@ -23967,7 +23967,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ceres Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609f",
@@ -23984,7 +23984,7 @@ state: "NJ",
 cause: "Death in custody",
 dept: "Vineland Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a4",
@@ -24001,7 +24001,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Rock Island Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a9",
@@ -24018,7 +24018,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Frederick County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860ae",
@@ -24035,7 +24035,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b3",
@@ -24052,7 +24052,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Tehachapi Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b8",
@@ -24069,7 +24069,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Creek County Sheriff's Department and Bristow Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860bd",
@@ -24086,7 +24086,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c2",
@@ -24103,7 +24103,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c7",
@@ -24120,7 +24120,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860cc",
@@ -24137,7 +24137,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Cañon City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d1",
@@ -24154,7 +24154,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis County Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d6",
@@ -24171,7 +24171,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Wilmore Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860db",
@@ -24188,7 +24188,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Lakewood Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e0",
@@ -24205,7 +24205,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e5",
@@ -24222,7 +24222,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sonoma County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ea",
@@ -24239,7 +24239,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Victoria Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ef",
@@ -24256,7 +24256,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Kings County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f4",
@@ -24273,7 +24273,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Chickasha Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f9",
@@ -24290,7 +24290,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860fe",
@@ -24307,7 +24307,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Garland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86103",
@@ -24324,7 +24324,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86108",
@@ -24341,7 +24341,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Wake Forest Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610d",
@@ -24358,7 +24358,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Lino Lakes Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86112",
@@ -24375,7 +24375,7 @@ state: "NC",
 cause: "Taser",
 dept: "Enfield Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86117",
@@ -24392,7 +24392,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611c",
@@ -24409,7 +24409,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Rockford Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86121",
@@ -24426,7 +24426,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Harvey Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86126",
@@ -24443,7 +24443,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Columbia Police Department and University of Missouri Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612b",
@@ -24460,7 +24460,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Lynn County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86130",
@@ -24477,7 +24477,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Lonoke County Sheriff's Office, Arkansas Department of Community Correction",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86135",
@@ -24494,7 +24494,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Owensboro Police Department and Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613a",
@@ -24511,7 +24511,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613f",
@@ -24528,7 +24528,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86144",
@@ -24545,7 +24545,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Edmond Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86149",
@@ -24562,7 +24562,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614e",
@@ -24579,7 +24579,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma Highway Patrol",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86153",
@@ -24596,7 +24596,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Palestine Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86158",
@@ -24613,7 +24613,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Tarrant County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615d",
@@ -24630,7 +24630,7 @@ state: "PA",
 cause: "Struck by vehicle",
 dept: "Chester Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86162",
@@ -24647,7 +24647,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "San Francisco Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86167",
@@ -24664,7 +24664,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Monongalia County Sheriff’s Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616c",
@@ -24681,7 +24681,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Beech Grove Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86171",
@@ -24698,7 +24698,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Maricopa County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86176",
@@ -24715,7 +24715,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617b",
@@ -24732,7 +24732,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Bexar County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86180",
@@ -24749,7 +24749,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Fort Wayne Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86185",
@@ -24766,7 +24766,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Neptune Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618a",
@@ -24783,7 +24783,7 @@ state: "ND",
 cause: "Gunshot",
 dept: "Spirit Lake Tribal Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618f",
@@ -24800,7 +24800,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Massachusetts State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86194",
@@ -24817,7 +24817,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Richmond County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86199",
@@ -24834,7 +24834,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "York-Poquoson Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619e",
@@ -24851,7 +24851,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a3",
@@ -24868,7 +24868,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a8",
@@ -24885,7 +24885,7 @@ state: "NC",
 cause: "Struck by vehicle",
 dept: "Winston Salem Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ad",
@@ -24902,7 +24902,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police, Summers County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b2",
@@ -24919,7 +24919,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "West Covina Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b7",
@@ -24936,7 +24936,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861bc",
@@ -24953,7 +24953,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Oklahoma City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c1",
@@ -24970,7 +24970,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c6",
@@ -24987,7 +24987,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Atlantic City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861cb",
@@ -25004,7 +25004,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Ashe County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d0",
@@ -25021,7 +25021,7 @@ state: "MS",
 cause: "Death in custody",
 dept: "Stonewall Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d5",
@@ -25038,7 +25038,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Kansas City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861da",
@@ -25055,7 +25055,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Plantation Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861df",
@@ -25072,7 +25072,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Shasta County Sheriff's Office, California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e4",
@@ -25089,7 +25089,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Trumbull County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e9",
@@ -25106,7 +25106,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Cheyenne Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ee",
@@ -25123,7 +25123,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orlando Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f3",
@@ -25140,7 +25140,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Farmersville Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f8",
@@ -25157,7 +25157,7 @@ state: "MS",
 cause: "Death in custody",
 dept: "Southaven Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861fd",
@@ -25174,7 +25174,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Wayne County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86202",
@@ -25191,7 +25191,7 @@ state: "GA",
 cause: "Struck by vehicle",
 dept: "Worth County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86207",
@@ -25208,7 +25208,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Plymouth Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620c",
@@ -25225,7 +25225,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Stokes County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86211",
@@ -25242,7 +25242,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Terrebonne Parish Sheriff's Office, Houma Police Department, Louisiana State Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86216",
@@ -25259,7 +25259,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Manila Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621b",
@@ -25276,7 +25276,7 @@ state: "MA",
 cause: "Taser",
 dept: "Worcester Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86220",
@@ -25293,7 +25293,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Roswell Police Department and Chaves County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86225",
@@ -25310,7 +25310,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Dallas County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622a",
@@ -25327,7 +25327,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Department and US Border Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622f",
@@ -25344,7 +25344,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Maui Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86234",
@@ -25361,7 +25361,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86239",
@@ -25378,7 +25378,7 @@ state: "CT",
 cause: "Death in custody",
 dept: "Hartford Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623e",
@@ -25395,7 +25395,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Greenville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86243",
@@ -25412,7 +25412,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Gilbert Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86248",
@@ -25429,7 +25429,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624d",
@@ -25446,7 +25446,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86252",
@@ -25463,7 +25463,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Kern County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86257",
@@ -25480,7 +25480,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Connecticut State Police and Manchester Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625c",
@@ -25497,7 +25497,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Stevens County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86261",
@@ -25514,7 +25514,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ontario Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86266",
@@ -25531,7 +25531,7 @@ state: "AZ",
 cause: "Taser",
 dept: "Scottsdale Police Department, Phoenix Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626b",
@@ -25548,7 +25548,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Brick Township Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86270",
@@ -25565,7 +25565,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police, Santa Fe Police Department, Santa Fe County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86275",
@@ -25582,7 +25582,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627a",
@@ -25599,7 +25599,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627f",
@@ -25616,7 +25616,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Bexar County Sheriff's Office",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86284",
@@ -25633,7 +25633,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Cushing Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86289",
@@ -25650,7 +25650,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Bluefield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628e",
@@ -25667,7 +25667,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Santa Clara County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86293",
@@ -25684,7 +25684,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Parker County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86298",
@@ -25701,7 +25701,7 @@ state: "RI",
 cause: "Death in custody",
 dept: "Providence Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629d",
@@ -25718,7 +25718,7 @@ state: "NM",
 cause: "Death in custody",
 dept: "Bernaillo Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a2",
@@ -25735,7 +25735,7 @@ state: "AL",
 cause: "Death in custody",
 dept: "Huntsville Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a7",
@@ -25752,7 +25752,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Lodi Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ac",
@@ -25769,7 +25769,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Potsdam Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b1",
@@ -25786,7 +25786,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Grant County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b6",
@@ -25803,7 +25803,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Bernard Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862bb",
@@ -25820,7 +25820,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "US Marshals violent offender taskforce",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c0",
@@ -25837,7 +25837,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "El Monte Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c5",
@@ -25854,7 +25854,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Tulalip Tribal Police Department, Snohomish County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ca",
@@ -25871,7 +25871,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Alameda County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862cf",
@@ -25888,7 +25888,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Volusia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d4",
@@ -25905,7 +25905,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Salt Lake City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d9",
@@ -25922,7 +25922,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Grayson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862de",
@@ -25939,7 +25939,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Yavapai County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e3",
@@ -25956,7 +25956,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e8",
@@ -25973,7 +25973,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Rapid City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ed",
@@ -25990,7 +25990,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f2",
@@ -26007,7 +26007,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Muscle Shoals Police Department, Sheffield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f7",
@@ -26024,7 +26024,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Akron Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862fc",
@@ -26041,7 +26041,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Lake Charles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86301",
@@ -26058,7 +26058,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Berardino County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86306",
@@ -26075,7 +26075,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630b",
@@ -26092,7 +26092,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Seaside Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86310",
@@ -26109,7 +26109,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86315",
@@ -26126,7 +26126,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "York Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631a",
@@ -26143,7 +26143,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631f",
@@ -26160,7 +26160,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Tammany Parish Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86324",
@@ -26177,7 +26177,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Kentwood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86329",
@@ -26194,7 +26194,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632e",
@@ -26211,7 +26211,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Muskingum County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86333",
@@ -26228,7 +26228,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Savannah-Chatham Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86338",
@@ -26245,7 +26245,7 @@ state: "TX",
 cause: "Taser",
 dept: "Corpus Christi Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633d",
@@ -26262,7 +26262,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police, United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86342",
@@ -26279,7 +26279,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Dixie County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86347",
@@ -26296,7 +26296,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Adams County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634c",
@@ -26313,7 +26313,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86351",
@@ -26330,7 +26330,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Ward 2 city marshals",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86356",
@@ -26347,7 +26347,7 @@ state: "OR",
 cause: "Struck by vehicle",
 dept: "Klamath County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635b",
@@ -26364,7 +26364,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86360",
@@ -26381,7 +26381,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86365",
@@ -26398,7 +26398,7 @@ state: "PA",
 cause: "Death in custody",
 dept: "Allegheny County Bureau of Corrections",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636a",
@@ -26415,7 +26415,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Gibson County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636f",
@@ -26432,7 +26432,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Housing Authority Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86374",
@@ -26449,7 +26449,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86379",
@@ -26466,7 +26466,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Early County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637e",
@@ -26483,7 +26483,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Metropolitan Police Department of the District of Columbia",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86383",
@@ -26500,7 +26500,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Colbert Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86388",
@@ -26517,7 +26517,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Reno Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638d",
@@ -26534,7 +26534,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Austin Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86392",
@@ -26551,7 +26551,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86397",
@@ -26568,7 +26568,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639c",
@@ -26585,7 +26585,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a1",
@@ -26602,7 +26602,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Texas Department of Public Safety",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a6",
@@ -26619,7 +26619,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Irving Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ab",
@@ -26636,7 +26636,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b0",
@@ -26653,7 +26653,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Marina Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b5",
@@ -26670,7 +26670,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ba",
@@ -26687,7 +26687,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863bf",
@@ -26704,7 +26704,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "New Orleans Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c4",
@@ -26721,7 +26721,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c9",
@@ -26738,7 +26738,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Ventura County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ce",
@@ -26755,7 +26755,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Knox County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d3",
@@ -26772,7 +26772,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hemet Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d8",
@@ -26789,7 +26789,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Aurora Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863dd",
@@ -26806,7 +26806,7 @@ state: "VT",
 cause: "Gunshot",
 dept: "Vermont State Police, Drug Enforcement Administration",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e2",
@@ -26823,7 +26823,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Franklin Parish Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e7",
@@ -26840,7 +26840,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ec",
@@ -26857,7 +26857,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Suffolk Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f1",
@@ -26874,7 +26874,7 @@ state: "FL",
 cause: "Taser",
 dept: "Jacksonville Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f6",
@@ -26891,7 +26891,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Rawlins Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863fb",
@@ -26908,7 +26908,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "Kern County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86400",
@@ -26925,7 +26925,7 @@ state: "DC",
 cause: "Death in custody",
 dept: "Special police, Washington DC",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86405",
@@ -26942,7 +26942,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Victor Valley College Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640a",
@@ -26959,7 +26959,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Livingston Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640f",
@@ -26976,7 +26976,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Beauregard Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86414",
@@ -26993,7 +26993,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "United States Marshal Service",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86419",
@@ -27010,7 +27010,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Bartow County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641e",
@@ -27027,7 +27027,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86423",
@@ -27044,7 +27044,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Cle Elum-Roslyn-South Cle Elum Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86428",
@@ -27061,7 +27061,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police, FBI",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642d",
@@ -27078,7 +27078,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86432",
@@ -27095,7 +27095,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Unified Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86437",
@@ -27112,7 +27112,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Union City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643c",
@@ -27129,7 +27129,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Lowndes County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86441",
@@ -27146,7 +27146,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Eufaula Police Department, McIntosh County Sheriff's Office, Oklahoma Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86446",
@@ -27163,7 +27163,7 @@ state: "KS",
 cause: "Death in custody",
 dept: "Saline County Sheriff’s Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644b",
@@ -27180,7 +27180,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Georgia State Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86450",
@@ -27197,7 +27197,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Loudon County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86455",
@@ -27214,7 +27214,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Irving Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645a",
@@ -27231,7 +27231,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Missouri State Highway Patrol, Jackson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645f",
@@ -27248,7 +27248,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington Metropolitan Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86464",
@@ -27265,7 +27265,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Rosebud Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86469",
@@ -27282,7 +27282,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646e",
@@ -27299,7 +27299,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Seaside Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86473",
@@ -27316,7 +27316,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86478",
@@ -27333,7 +27333,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647d",
@@ -27350,7 +27350,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Colonie Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86482",
@@ -27367,7 +27367,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "North Slope Borough Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86487",
@@ -27384,7 +27384,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Boston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648c",
@@ -27401,7 +27401,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Baton Rouge Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86491",
@@ -27418,7 +27418,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Manatee County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86496",
@@ -27435,7 +27435,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Fairfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649b",
@@ -27452,7 +27452,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a0",
@@ -27469,7 +27469,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Elizabethton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a5",
@@ -27486,7 +27486,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Inglewood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864aa",
@@ -27503,7 +27503,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864af",
@@ -27520,7 +27520,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b4",
@@ -27537,7 +27537,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b9",
@@ -27554,7 +27554,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Montgomery Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864be",
@@ -27571,7 +27571,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Wilson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c3",
@@ -27588,7 +27588,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Euless Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c8",
@@ -27605,7 +27605,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864cd",
@@ -27622,7 +27622,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Montgomery County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d2",
@@ -27639,7 +27639,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d7",
@@ -27656,7 +27656,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hillsborough County Sheriff's Office",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864dc",
@@ -27673,7 +27673,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado State Patrol",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e1",
@@ -27690,7 +27690,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Greensboro Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e6",
@@ -27707,7 +27707,7 @@ state: "MI",
 cause: "Struck by vehicle",
 dept: "Michigan State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864eb",
@@ -27724,7 +27724,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Farmers Branch Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f0",
@@ -27741,7 +27741,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Evansville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f5",
@@ -27758,7 +27758,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miramar Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864fa",
@@ -27775,7 +27775,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ff",
@@ -27792,7 +27792,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "St Tammany Parish Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86504",
@@ -27809,7 +27809,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Pennsylvania State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86509",
@@ -27826,7 +27826,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650e",
@@ -27843,7 +27843,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Braintree Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86513",
@@ -27860,7 +27860,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Laguna Pueblo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86518",
@@ -27877,7 +27877,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Roswell Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651d",
@@ -27894,7 +27894,7 @@ state: "CA",
 cause: "Struck by vehicle",
 dept: "California Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86522",
@@ -27911,7 +27911,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "City of Jackson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86527",
@@ -27928,7 +27928,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Caldwell County Sheriff’s Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652c",
@@ -27945,7 +27945,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Auburn Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86531",
@@ -27962,7 +27962,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "West Springfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86536",
@@ -27979,7 +27979,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653b",
@@ -27996,7 +27996,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Lake Hallie Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86540",
@@ -28013,7 +28013,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Rotterdam Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86545",
@@ -28030,7 +28030,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654a",
@@ -28047,7 +28047,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "White County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654f",
@@ -28064,7 +28064,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86554",
@@ -28081,7 +28081,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Vineland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86559",
@@ -28098,7 +28098,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655e",
@@ -28115,7 +28115,7 @@ state: "VA",
 cause: "Death in custody",
 dept: "Fairfax County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86563",
@@ -28132,7 +28132,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Chandler Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86568",
@@ -28149,7 +28149,7 @@ state: "MS",
 cause: "Taser",
 dept: "Gulfport Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656d",
@@ -28166,7 +28166,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Chesapeake Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86572",
@@ -28183,7 +28183,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "DeKalb County Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86577",
@@ -28200,7 +28200,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Ada County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657c",
@@ -28217,7 +28217,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orlando Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86581",
@@ -28234,7 +28234,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86586",
@@ -28251,7 +28251,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Gretna Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658b",
@@ -28268,7 +28268,7 @@ state: "ME",
 cause: "Gunshot",
 dept: "Presque Isle Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86590",
@@ -28285,7 +28285,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "El Paso Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86595",
@@ -28302,7 +28302,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659a",
@@ -28319,7 +28319,7 @@ state: "FL",
 cause: "Struck by vehicle",
 dept: "Lake County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659f",
@@ -28336,7 +28336,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a4",
@@ -28353,7 +28353,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Siskiyou County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a9",
@@ -28370,7 +28370,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ae",
@@ -28387,7 +28387,7 @@ state: "AZ",
 cause: "Death in custody",
 dept: "Phoenix Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b3",
@@ -28404,7 +28404,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hallandale Beach Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b8",
@@ -28421,7 +28421,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Gresham Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865bd",
@@ -28438,7 +28438,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Saint Paul Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c2",
@@ -28455,7 +28455,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c7",
@@ -28472,7 +28472,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "San Antonio Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865cc",
@@ -28489,7 +28489,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Volusia County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d1",
@@ -28506,7 +28506,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d6",
@@ -28523,7 +28523,7 @@ state: "KY",
 cause: "Struck by vehicle",
 dept: "Kentucky State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865db",
@@ -28540,7 +28540,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Muncie Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e0",
@@ -28557,7 +28557,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e5",
@@ -28574,7 +28574,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ea",
@@ -28591,7 +28591,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Port Arthur Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ef",
@@ -28608,7 +28608,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f4",
@@ -28625,7 +28625,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Barren County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f9",
@@ -28642,7 +28642,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Amarillo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865fe",
@@ -28659,7 +28659,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Marinette County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86603",
@@ -28676,7 +28676,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Huntsville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86608",
@@ -28693,7 +28693,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Brevard County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660d",
@@ -28710,7 +28710,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Cleveland County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86612",
@@ -28727,7 +28727,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "DeSoto County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86617",
@@ -28744,7 +28744,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Belleville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661c",
@@ -28761,7 +28761,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86621",
@@ -28778,7 +28778,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Dolton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86626",
@@ -28795,7 +28795,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Bleckley County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662b",
@@ -28812,7 +28812,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Honolulu Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86630",
@@ -28829,7 +28829,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86635",
@@ -28846,7 +28846,7 @@ state: "OK",
 cause: "Taser",
 dept: "Ponca City Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663a",
@@ -28863,7 +28863,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Bristol Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663f",
@@ -28880,7 +28880,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Reno Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86644",
@@ -28897,7 +28897,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Metro Transit Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86649",
@@ -28914,7 +28914,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Yuma County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664e",
@@ -28931,7 +28931,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Clovis Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86653",
@@ -28948,7 +28948,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86658",
@@ -28965,7 +28965,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Washington Park Police Department, East St Louis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665d",
@@ -28982,7 +28982,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Middletown Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86662",
@@ -28999,7 +28999,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86667",
@@ -29016,7 +29016,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666c",
@@ -29033,7 +29033,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Waterbury Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86671",
@@ -29050,7 +29050,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Chino Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86676",
@@ -29067,7 +29067,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Indianapolis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667b",
@@ -29084,7 +29084,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Pittsburg Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86680",
@@ -29101,7 +29101,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Franklin County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86685",
@@ -29118,7 +29118,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Sparks Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668a",
@@ -29135,7 +29135,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Northampton County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668f",
@@ -29152,7 +29152,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Lexington County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86694",
@@ -29169,7 +29169,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Lake City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86699",
@@ -29186,7 +29186,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Clearfield Police Department, Davis County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669e",
@@ -29203,7 +29203,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a3",
@@ -29220,7 +29220,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Harrisburg Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a8",
@@ -29237,7 +29237,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Wilkes County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ad",
@@ -29254,7 +29254,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Fairfield Police Department, Solano County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b2",
@@ -29271,7 +29271,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b7",
@@ -29288,7 +29288,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866bc",
@@ -29305,7 +29305,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Ashtabula County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c1",
@@ -29322,7 +29322,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Hampshire County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c6",
@@ -29339,7 +29339,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Hays Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866cb",
@@ -29356,7 +29356,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d0",
@@ -29373,7 +29373,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "East Ridge Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d5",
@@ -29390,7 +29390,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866da",
@@ -29407,7 +29407,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866df",
@@ -29424,7 +29424,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Denver Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e4",
@@ -29441,7 +29441,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e9",
@@ -29458,7 +29458,7 @@ state: "AK",
 cause: "Gunshot",
 dept: "Fairbanks Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ee",
@@ -29475,7 +29475,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Sedgwick County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f3",
@@ -29492,7 +29492,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f8",
@@ -29509,7 +29509,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Temple Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866fd",
@@ -29526,7 +29526,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86702",
@@ -29543,7 +29543,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Titusville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86707",
@@ -29560,7 +29560,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Merced County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670c",
@@ -29577,7 +29577,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Boulder County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86711",
@@ -29594,7 +29594,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86716",
@@ -29611,7 +29611,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Missouri State Highway Patrol, Taney County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671b",
@@ -29628,7 +29628,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Huntsville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86720",
@@ -29645,7 +29645,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York court officer",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86725",
@@ -29662,7 +29662,7 @@ state: "CT",
 cause: "Gunshot",
 dept: "Mashantucket Pequot Tribal Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672a",
@@ -29679,7 +29679,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Cass County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672f",
@@ -29696,7 +29696,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Pulaski County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86734",
@@ -29713,7 +29713,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86739",
@@ -29730,7 +29730,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Newark Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673e",
@@ -29747,7 +29747,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Pasadena Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86743",
@@ -29764,7 +29764,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86748",
@@ -29781,7 +29781,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Hillsborough County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674d",
@@ -29798,7 +29798,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86752",
@@ -29815,7 +29815,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86757",
@@ -29832,7 +29832,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Highlands County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675c",
@@ -29849,7 +29849,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Syracuse Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86761",
@@ -29866,7 +29866,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Arizona Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86766",
@@ -29883,7 +29883,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Kentucky State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676b",
@@ -29900,7 +29900,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86770",
@@ -29917,7 +29917,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86775",
@@ -29934,7 +29934,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tulsa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677a",
@@ -29951,7 +29951,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Nevada Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677f",
@@ -29968,7 +29968,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86784",
@@ -29985,7 +29985,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86789",
@@ -30002,7 +30002,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Lincoln Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678e",
@@ -30019,7 +30019,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Georgia State Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86793",
@@ -30036,7 +30036,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Boston Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86798",
@@ -30053,7 +30053,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679d",
@@ -30070,7 +30070,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "West Jordan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a2",
@@ -30087,7 +30087,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Walton County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a7",
@@ -30104,7 +30104,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Okfuskee County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ac",
@@ -30121,7 +30121,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Columbus Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b1",
@@ -30138,7 +30138,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b6",
@@ -30155,7 +30155,7 @@ state: "NC",
 cause: "Taser",
 dept: "Henderson County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867bb",
@@ -30172,7 +30172,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "East Point Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c0",
@@ -30189,7 +30189,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Sahuarita Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c5",
@@ -30206,7 +30206,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Scott Township Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ca",
@@ -30223,7 +30223,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867cf",
@@ -30240,7 +30240,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d4",
@@ -30257,7 +30257,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Cruz County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d9",
@@ -30274,7 +30274,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867de",
@@ -30291,7 +30291,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e3",
@@ -30308,7 +30308,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pinellas County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e8",
@@ -30325,7 +30325,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "South Tucson Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ed",
@@ -30342,7 +30342,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Olathe Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f2",
@@ -30359,7 +30359,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Washington Park Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f7",
@@ -30376,7 +30376,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Kansas City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867fc",
@@ -30393,7 +30393,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86801",
@@ -30410,7 +30410,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Elkhart Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86806",
@@ -30427,7 +30427,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Lake County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680b",
@@ -30444,7 +30444,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Forks Township Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86810",
@@ -30461,7 +30461,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Sumter Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86815",
@@ -30478,7 +30478,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Laredo Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681a",
@@ -30495,7 +30495,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Coppin State Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8681f",
@@ -30512,7 +30512,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86824",
@@ -30529,7 +30529,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Caldwell County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86829",
@@ -30546,7 +30546,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Ponca City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8682e",
@@ -30563,7 +30563,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86833",
@@ -30580,7 +30580,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "El Monte Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86838",
@@ -30597,7 +30597,7 @@ state: "TX",
 cause: "Death in custody",
 dept: "Parker County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8683d",
@@ -30614,7 +30614,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Nevada County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86842",
@@ -30631,7 +30631,7 @@ state: "SD",
 cause: "Gunshot",
 dept: "Oglala Sioux Tribe Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86847",
@@ -30648,7 +30648,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami-Dade Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f8d",
@@ -30665,7 +30665,7 @@ state: "GA",
 cause: "Death in custody",
 dept: "Chatham County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f92",
@@ -30682,7 +30682,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f97",
@@ -30699,7 +30699,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Burlington Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85f9c",
@@ -30716,7 +30716,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Freeport Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa1",
@@ -30733,7 +30733,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Salt Lake City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fa6",
@@ -30750,7 +30750,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "North Las Vegas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fab",
@@ -30767,7 +30767,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "St Louis County Police Department, Jefferson County Sheriff's Office, Franklin County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb0",
@@ -30784,7 +30784,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "Bloomington Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fb5",
@@ -30801,7 +30801,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Scottsdale Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fba",
@@ -30818,7 +30818,7 @@ state: "KY",
 cause: "Struck by vehicle",
 dept: "Stanford Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fbf",
@@ -30835,7 +30835,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Fort Worth Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc4",
@@ -30852,7 +30852,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fc9",
@@ -30869,7 +30869,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "US Border Patrol",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fce",
@@ -30886,7 +30886,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Rexburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd3",
@@ -30903,7 +30903,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "San Francisco Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fd8",
@@ -30920,7 +30920,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Rosenberg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fdd",
@@ -30937,7 +30937,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Stillwater Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe2",
@@ -30954,7 +30954,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Attorney's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fe7",
@@ -30971,7 +30971,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Contra Costa Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85fec",
@@ -30988,7 +30988,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Department [US Marshals Service Task Force]",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff1",
@@ -31005,7 +31005,7 @@ state: "TX",
 cause: "Taser",
 dept: "Wichita County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ff6",
@@ -31022,7 +31022,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb85ffb",
@@ -31039,7 +31039,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Clarkstown Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86000",
@@ -31056,7 +31056,7 @@ state: "ME",
 cause: "Gunshot",
 dept: "Maine State Troopers and Aroostook County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86005",
@@ -31073,7 +31073,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Carroll County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600a",
@@ -31090,7 +31090,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Clackamas County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8600f",
@@ -31107,7 +31107,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Marana Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86014",
@@ -31124,7 +31124,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Springfield Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86019",
@@ -31141,7 +31141,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "US Marshals Service, Texas Department of Criminal Justice",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8601e",
@@ -31158,7 +31158,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Bay Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86023",
@@ -31175,7 +31175,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Green Bay Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86028",
@@ -31192,7 +31192,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8602d",
@@ -31209,7 +31209,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86032",
@@ -31226,7 +31226,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Eaton County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86037",
@@ -31243,7 +31243,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "George County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8603c",
@@ -31260,7 +31260,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Volusia County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86041",
@@ -31277,7 +31277,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Madison Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86046",
@@ -31294,7 +31294,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8604b",
@@ -31311,7 +31311,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Moffat County Sheriff's Office and Colorado Parks and Wildlife Law Enforcement",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86050",
@@ -31328,7 +31328,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "US Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86055",
@@ -31345,7 +31345,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Kingman Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605a",
@@ -31362,7 +31362,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8605f",
@@ -31379,7 +31379,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Napa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86064",
@@ -31396,7 +31396,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Pike County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86069",
@@ -31413,7 +31413,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Onalaska Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8606e",
@@ -31430,7 +31430,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86073",
@@ -31447,7 +31447,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86078",
@@ -31464,7 +31464,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Bakersfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8607d",
@@ -31481,7 +31481,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Cottonwood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86082",
@@ -31498,7 +31498,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Clara Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86087",
@@ -31515,7 +31515,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Portsmouth Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8608c",
@@ -31532,7 +31532,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86091",
@@ -31549,7 +31549,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Saint Lucie County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb86096",
@@ -31566,7 +31566,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Birmingham Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb8609b",
@@ -31583,7 +31583,7 @@ state: "VA",
 cause: "Taser",
 dept: "Culpeper Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a0",
@@ -31600,7 +31600,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Eugene Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860a5",
@@ -31617,7 +31617,7 @@ state: "NY",
 cause: "Taser",
 dept: "City of Albany Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860aa",
@@ -31634,7 +31634,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860af",
@@ -31651,7 +31651,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "North Charleston Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b4",
@@ -31668,7 +31668,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Pottawatomie County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860b9",
@@ -31685,7 +31685,7 @@ state: "CA",
 cause: "Taser",
 dept: "Kern County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860be",
@@ -31702,7 +31702,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Tehama County Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c3",
@@ -31719,7 +31719,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860c8",
@@ -31736,7 +31736,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Highland Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860cd",
@@ -31753,7 +31753,7 @@ state: "MD",
 cause: "Taser",
 dept: "Hagerstown Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d2",
@@ -31770,7 +31770,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department and California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d0bc4435bc7eb860d7",
@@ -31787,7 +31787,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Sidney Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860dc",
@@ -31804,7 +31804,7 @@ state: "MS",
 cause: "Taser",
 dept: "Lauderdale County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e1",
@@ -31821,7 +31821,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Boulder County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860e6",
@@ -31838,7 +31838,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Choctaw County Sheriff's Office and Hugo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860eb",
@@ -31855,7 +31855,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Lake County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f0",
@@ -31872,7 +31872,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Immigration and Customs Enforcement",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860f5",
@@ -31889,7 +31889,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Department of Fish and Wildlife",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860fa",
@@ -31906,7 +31906,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Nashville Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb860ff",
@@ -31923,7 +31923,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Roosevelt Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86104",
@@ -31940,7 +31940,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Pulaski Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86109",
@@ -31957,7 +31957,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8610e",
@@ -31974,7 +31974,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Pinal County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86113",
@@ -31991,7 +31991,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "St Johns County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86118",
@@ -32008,7 +32008,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "US Marshals Service",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8611d",
@@ -32025,7 +32025,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86122",
@@ -32042,7 +32042,7 @@ state: "FL",
 cause: "Taser",
 dept: "Coconut Creek Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86127",
@@ -32059,7 +32059,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Jefferson County Sheriff Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8612c",
@@ -32076,7 +32076,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "St Johns County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86131",
@@ -32093,7 +32093,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Summit County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86136",
@@ -32110,7 +32110,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "South Carolina State Law Enforcement Division",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8613b",
@@ -32127,7 +32127,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Pettis County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86140",
@@ -32144,7 +32144,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Huntsville Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86145",
@@ -32161,7 +32161,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "FBI",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614a",
@@ -32178,7 +32178,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Lancaster County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8614f",
@@ -32195,7 +32195,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Oregon State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86154",
@@ -32212,7 +32212,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Greece Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86159",
@@ -32229,7 +32229,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Ellis County Sheriff's Department and Texas DPS",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8615e",
@@ -32246,7 +32246,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Delano Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86163",
@@ -32263,7 +32263,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Arapahoe County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86168",
@@ -32280,7 +32280,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "North Port Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8616d",
@@ -32297,7 +32297,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Anaheim Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86172",
@@ -32314,7 +32314,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "DeSoto Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86177",
@@ -32331,7 +32331,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Broward Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8617c",
@@ -32348,7 +32348,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Kokomo Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86181",
@@ -32365,7 +32365,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Aiken County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86186",
@@ -32382,7 +32382,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Visalia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8618b",
@@ -32399,7 +32399,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86190",
@@ -32416,7 +32416,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86195",
@@ -32433,7 +32433,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Citrus Heights Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619a",
@@ -32450,7 +32450,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8619f",
@@ -32467,7 +32467,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a4",
@@ -32484,7 +32484,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Franklin Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861a9",
@@ -32501,7 +32501,7 @@ state: "WA",
 cause: "Death in custody",
 dept: "Island County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ae",
@@ -32518,7 +32518,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b3",
@@ -32535,7 +32535,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Montclair Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861b8",
@@ -32552,7 +32552,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Austin Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861bd",
@@ -32569,7 +32569,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Mesa Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c2",
@@ -32586,7 +32586,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861c7",
@@ -32603,7 +32603,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Hidalgo County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861cc",
@@ -32620,7 +32620,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d1",
@@ -32637,7 +32637,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Cruz County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861d6",
@@ -32654,7 +32654,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Dekalb County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861db",
@@ -32671,7 +32671,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Newton County Sheriff’s Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e0",
@@ -32688,7 +32688,7 @@ state: "UT",
 cause: "Taser",
 dept: "Utah State Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861e5",
@@ -32705,7 +32705,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ea",
@@ -32722,7 +32722,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Homesptead Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861ef",
@@ -32739,7 +32739,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Fort Collins Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f4",
@@ -32756,7 +32756,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "University of Cincinnati Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861f9",
@@ -32773,7 +32773,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fremont Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb861fe",
@@ -32790,7 +32790,7 @@ state: "WV",
 cause: "Death in custody",
 dept: "Weston Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86203",
@@ -32807,7 +32807,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Green County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86208",
@@ -32824,7 +32824,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Horry County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8620d",
@@ -32841,7 +32841,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Decatur County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86212",
@@ -32858,7 +32858,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Florida Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86217",
@@ -32875,7 +32875,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Doña Ana County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8621c",
@@ -32892,7 +32892,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86221",
@@ -32909,7 +32909,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Nitro Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86226",
@@ -32926,7 +32926,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Oakland Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8622b",
@@ -32943,7 +32943,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Metropolitan Nashville Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86230",
@@ -32960,7 +32960,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Louisville Metro Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86235",
@@ -32977,7 +32977,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623a",
@@ -32994,7 +32994,7 @@ state: "MT",
 cause: "Gunshot",
 dept: "Mineral County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8623f",
@@ -33011,7 +33011,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Ardmore Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86244",
@@ -33028,7 +33028,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Douglas County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86249",
@@ -33045,7 +33045,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8624e",
@@ -33062,7 +33062,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Boerne Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86253",
@@ -33079,7 +33079,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Carson City Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86258",
@@ -33096,7 +33096,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8625d",
@@ -33113,7 +33113,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Bloomfield Hills Public Safety Department, Warren Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86262",
@@ -33130,7 +33130,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Mason County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86267",
@@ -33147,7 +33147,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Troy Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8626c",
@@ -33164,7 +33164,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Archdale Police Department, High Point Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86271",
@@ -33181,7 +33181,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Chester County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86276",
@@ -33198,7 +33198,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Washington County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8627b",
@@ -33215,7 +33215,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86280",
@@ -33232,7 +33232,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86285",
@@ -33249,7 +33249,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Tucson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628a",
@@ -33266,7 +33266,7 @@ state: "NJ",
 cause: "Struck by vehicle",
 dept: "Newark Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8628f",
@@ -33283,7 +33283,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Yavapai County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86294",
@@ -33300,7 +33300,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Durham Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86299",
@@ -33317,7 +33317,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Virginia Beach Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8629e",
@@ -33334,7 +33334,7 @@ state: "NH",
 cause: "Gunshot",
 dept: "Merrimack Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a3",
@@ -33351,7 +33351,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Ashwaubenon Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862a8",
@@ -33368,7 +33368,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fontana Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ad",
@@ -33385,7 +33385,7 @@ state: "IL",
 cause: "Death in custody",
 dept: "Chicago Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b2",
@@ -33402,7 +33402,7 @@ state: "OH",
 cause: "Death in custody",
 dept: "Springfield Township Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862b7",
@@ -33419,7 +33419,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Broomfield Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862bc",
@@ -33436,7 +33436,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Michigan State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c1",
@@ -33453,7 +33453,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Dickson County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862c6",
@@ -33470,7 +33470,7 @@ state: "IN",
 cause: "Gunshot",
 dept: "Shelbyville Police Department, Shelby County Sheriff’s Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862cb",
@@ -33487,7 +33487,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Green Lake County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d0",
@@ -33504,7 +33504,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Polk County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862d5",
@@ -33521,7 +33521,7 @@ state: "DE",
 cause: "Gunshot",
 dept: "Wilmington Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862da",
@@ -33538,7 +33538,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Fountain Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862df",
@@ -33555,7 +33555,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e4",
@@ -33572,7 +33572,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862e9",
@@ -33589,7 +33589,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fresno Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862ee",
@@ -33606,7 +33606,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f3",
@@ -33623,7 +33623,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Randall County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862f8",
@@ -33640,7 +33640,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Palm Beach County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb862fd",
@@ -33657,7 +33657,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Greenville County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86302",
@@ -33674,7 +33674,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Ector County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86307",
@@ -33691,7 +33691,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8630c",
@@ -33708,7 +33708,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86311",
@@ -33725,7 +33725,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86316",
@@ -33742,7 +33742,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Richmond Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8631b",
@@ -33759,7 +33759,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Collier County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86320",
@@ -33776,7 +33776,7 @@ state: "IA",
 cause: "Gunshot",
 dept: "Cedar Rapids Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86325",
@@ -33793,7 +33793,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Shreveport Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632a",
@@ -33810,7 +33810,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Kenosha County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8632f",
@@ -33827,7 +33827,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Tampa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86334",
@@ -33844,7 +33844,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Diego Harbor Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86339",
@@ -33861,7 +33861,7 @@ state: "KS",
 cause: "Taser",
 dept: "Osage County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8633e",
@@ -33878,7 +33878,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86343",
@@ -33895,7 +33895,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado Springs Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86348",
@@ -33912,7 +33912,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Prince George's County Police Department, Forest Heights Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8634d",
@@ -33929,7 +33929,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Lakeshire Police Department, St Louis County Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86352",
@@ -33946,7 +33946,7 @@ state: "OR",
 cause: "Gunshot",
 dept: "Portland Police Bureau",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86357",
@@ -33963,7 +33963,7 @@ state: "PA",
 cause: "Struck by vehicle",
 dept: "Pennsylvania State Police",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8635c",
@@ -33980,7 +33980,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "West Virginia State Police, US Marshals",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86361",
@@ -33997,7 +33997,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86366",
@@ -34014,7 +34014,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Albertville Police Department, Marshall County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8636b",
@@ -34031,7 +34031,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Riverside County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86370",
@@ -34048,7 +34048,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Whitfield County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86375",
@@ -34065,7 +34065,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Cayce Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637a",
@@ -34082,7 +34082,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Harris County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8637f",
@@ -34099,7 +34099,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86384",
@@ -34116,7 +34116,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Fontana Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86389",
@@ -34133,7 +34133,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8638e",
@@ -34150,7 +34150,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Christian County Sheriff's Department, Nixa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86393",
@@ -34167,7 +34167,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Ohio State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86398",
@@ -34184,7 +34184,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Atlanta Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8639d",
@@ -34201,7 +34201,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a2",
@@ -34218,7 +34218,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Miami Beach Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863a7",
@@ -34235,7 +34235,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Neenah Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ac",
@@ -34252,7 +34252,7 @@ state: "MO",
 cause: "Death in custody",
 dept: "St Louis Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b1",
@@ -34269,7 +34269,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Hemet Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ca",
@@ -34286,7 +34286,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Kent Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e3",
@@ -34303,7 +34303,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "East Baton Rouge Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863fc",
@@ -34320,7 +34320,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Colorado Springs Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86415",
@@ -34337,7 +34337,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8642e",
@@ -34354,7 +34354,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c5",
@@ -34371,7 +34371,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863de",
@@ -34388,7 +34388,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Baltimore County Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f7",
@@ -34405,7 +34405,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86410",
@@ -34422,7 +34422,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Upper Darby Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86429",
@@ -34439,7 +34439,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "El Cajon Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863c0",
@@ -34456,7 +34456,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Milan Police Department, Gibson County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d9",
@@ -34473,7 +34473,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Ludlow Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863f2",
@@ -34490,7 +34490,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8640b",
@@ -34507,7 +34507,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Sweetwater Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86424",
@@ -34524,7 +34524,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Sevier County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863bb",
@@ -34541,7 +34541,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Chattanooga Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863d4",
@@ -34558,7 +34558,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Amarillo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863ed",
@@ -34575,7 +34575,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86406",
@@ -34592,7 +34592,7 @@ state: "NY",
 cause: "Taser",
 dept: "Carmel Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641f",
@@ -34609,7 +34609,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Fernando Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863b6",
@@ -34626,7 +34626,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863cf",
@@ -34643,7 +34643,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb863e8",
@@ -34660,7 +34660,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86401",
@@ -34677,7 +34677,7 @@ state: "TX",
 cause: "Taser",
 dept: "Austin Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8641a",
@@ -34694,7 +34694,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Town of Geneva Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86438",
@@ -34711,7 +34711,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Phoenix Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86433",
@@ -34728,7 +34728,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Department of Homeland Security",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8643d",
@@ -34745,7 +34745,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Stockton Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86442",
@@ -34762,7 +34762,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Richmond County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86447",
@@ -34779,7 +34779,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "San Bernardino County Sheriff’s Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8644c",
@@ -34796,7 +34796,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Johnson County Sheriff's Office, Texas Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86451",
@@ -34813,7 +34813,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86456",
@@ -34830,7 +34830,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Lee County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8645b",
@@ -34847,7 +34847,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Port Authority Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86460",
@@ -34864,7 +34864,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department, Bernalillo County Sheriff’s Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86465",
@@ -34881,7 +34881,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Marion County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646a",
@@ -34898,7 +34898,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Independence Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8646f",
@@ -34915,7 +34915,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Iredell County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86474",
@@ -34932,7 +34932,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Kenton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86479",
@@ -34949,7 +34949,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Jefferson Parish Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8647e",
@@ -34966,7 +34966,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Harford County Sheriff’s Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86483",
@@ -34983,7 +34983,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86488",
@@ -35000,7 +35000,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Syracuse Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8648d",
@@ -35017,7 +35017,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Buckingham County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86492",
@@ -35034,7 +35034,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86497",
@@ -35051,7 +35051,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Republic Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8649c",
@@ -35068,7 +35068,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Santa Ana Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a1",
@@ -35085,7 +35085,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Lakewood Police Department, Pierce County Sheriff's Department, Steilacoom Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864a6",
@@ -35102,7 +35102,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Inglewood Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ab",
@@ -35119,7 +35119,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Mission Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b0",
@@ -35136,7 +35136,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Manteca Police Department, Stockton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864b5",
@@ -35153,7 +35153,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ba",
@@ -35170,7 +35170,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Lyon County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864bf",
@@ -35187,7 +35187,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Ashville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c4",
@@ -35204,7 +35204,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Gautier Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864c9",
@@ -35221,7 +35221,7 @@ state: "NC",
 cause: "Taser",
 dept: "Kenly Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ce",
@@ -35238,7 +35238,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "South Gate Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d3",
@@ -35255,7 +35255,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Jose Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864d8",
@@ -35272,7 +35272,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Odessa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864dd",
@@ -35289,7 +35289,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Norfolk Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e2",
@@ -35306,7 +35306,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Houston Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864e7",
@@ -35323,7 +35323,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Lenoir City Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864ec",
@@ -35340,7 +35340,7 @@ state: "MD",
 cause: "Gunshot",
 dept: "Prince George's County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f1",
@@ -35357,7 +35357,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864f6",
@@ -35374,7 +35374,7 @@ state: "NY",
 cause: "Death in custody",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb864fb",
@@ -35391,7 +35391,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Contra Costa County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86500",
@@ -35408,7 +35408,7 @@ state: "FL",
 cause: "Taser",
 dept: "Pasco County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86505",
@@ -35425,7 +35425,7 @@ state: "VT",
 cause: "Gunshot",
 dept: "Burlington Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650a",
@@ -35442,7 +35442,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Thornton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8650f",
@@ -35459,7 +35459,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Pueblo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86514",
@@ -35476,7 +35476,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Grundy Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86519",
@@ -35493,7 +35493,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "North Carolina State Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8651e",
@@ -35510,7 +35510,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Clearlake Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86523",
@@ -35527,7 +35527,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Virginia State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86528",
@@ -35544,7 +35544,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Odessa Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8652d",
@@ -35561,7 +35561,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Louisiana State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86532",
@@ -35578,7 +35578,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86537",
@@ -35595,7 +35595,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Omaha Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8653c",
@@ -35612,7 +35612,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Franklin Township Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86541",
@@ -35629,7 +35629,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Memphis Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86546",
@@ -35646,7 +35646,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Holmes County Sheriff's Office",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8654b",
@@ -35663,7 +35663,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "McPherson County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86550",
@@ -35680,7 +35680,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Lake County Sheriff's Office, McHenry County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86555",
@@ -35697,7 +35697,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Troy Police Department",
 armed: "Vehicle",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655a",
@@ -35714,7 +35714,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8655f",
@@ -35731,7 +35731,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Everett Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86564",
@@ -35748,7 +35748,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Antigo Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86569",
@@ -35765,7 +35765,7 @@ state: "WI",
 cause: "Death in custody",
 dept: "Milwaukee County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8656e",
@@ -35782,7 +35782,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Lakewood Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86573",
@@ -35799,7 +35799,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Salt Lake County Unified Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86578",
@@ -35816,7 +35816,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Missouri State Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8657d",
@@ -35833,7 +35833,7 @@ state: "TN",
 cause: "Gunshot",
 dept: "Crockett County Sheriff's Department, Maury City Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86582",
@@ -35850,7 +35850,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Missouri State Highway Patrol",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86587",
@@ -35867,7 +35867,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Weirton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8658c",
@@ -35884,7 +35884,7 @@ state: "OK",
 cause: "Struck by vehicle",
 dept: "Oklahoma Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86591",
@@ -35901,7 +35901,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Nacogdoches County Sheriff's Office, Texas Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86596",
@@ -35918,7 +35918,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Pontotoc County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8659b",
@@ -35935,7 +35935,7 @@ state: "FL",
 cause: "Struck by vehicle",
 dept: "Lake County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a0",
@@ -35952,7 +35952,7 @@ state: "MA",
 cause: "Taser",
 dept: "Fall River Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865a5",
@@ -35969,7 +35969,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York City Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865aa",
@@ -35986,7 +35986,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Citrus Heights Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865af",
@@ -36003,7 +36003,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Bernardino Sheriff's Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b4",
@@ -36020,7 +36020,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Massachusetts State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865b9",
@@ -36037,7 +36037,7 @@ state: "MO",
 cause: "Gunshot",
 dept: "Cass County Sheriff’s Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865be",
@@ -36054,7 +36054,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Socorro County Sheriff’s Department, New Mexico State Police",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c3",
@@ -36071,7 +36071,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Sneads Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865c8",
@@ -36088,7 +36088,7 @@ state: "OK",
 cause: "Death in custody",
 dept: "Tulsa Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865cd",
@@ -36105,7 +36105,7 @@ state: "IN",
 cause: "Taser",
 dept: "Greenwood Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d2",
@@ -36122,7 +36122,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Madison County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865d7",
@@ -36139,7 +36139,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Colorado River Indian Tribes Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865dc",
@@ -36156,7 +36156,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Eufaula Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e1",
@@ -36173,7 +36173,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Wagoner Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865e6",
@@ -36190,7 +36190,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Henry County Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865eb",
@@ -36207,7 +36207,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "US Customs and Border Protection",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f0",
@@ -36224,7 +36224,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865f5",
@@ -36241,7 +36241,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Mobile Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865fa",
@@ -36258,7 +36258,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Clark County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86613",
@@ -36275,7 +36275,7 @@ state: "MI",
 cause: "Taser",
 dept: "Flint Police Department, Michigan State Police",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb865ff",
@@ -36292,7 +36292,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "Albuquerque Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86604",
@@ -36309,7 +36309,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento County Sheriff's Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86609",
@@ -36326,7 +36326,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "Syracuse Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8660e",
@@ -36343,7 +36343,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "Mills Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86618",
@@ -36360,7 +36360,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Paterson Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8661d",
@@ -36377,7 +36377,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Georgia State Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86622",
@@ -36394,7 +36394,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Lincoln Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86627",
@@ -36411,7 +36411,7 @@ state: "NM",
 cause: "Gunshot",
 dept: "New Mexico State Police",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8662c",
@@ -36428,7 +36428,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Long Beach Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86631",
@@ -36445,7 +36445,7 @@ state: "WY",
 cause: "Gunshot",
 dept: "United States Marshals Service",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86636",
@@ -36462,7 +36462,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Cartersville Police Department and Bartow County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8663b",
@@ -36479,7 +36479,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Asheville Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86640",
@@ -36496,7 +36496,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86645",
@@ -36513,7 +36513,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "North Charleston Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664a",
@@ -36530,7 +36530,7 @@ state: "MN",
 cause: "Gunshot",
 dept: "St Anthony Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8664f",
@@ -36547,7 +36547,7 @@ state: "TX",
 cause: "Other",
 dept: "Dallas Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86654",
@@ -36564,7 +36564,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Broken Bow Police Department, McCurtain County Sheriff’s Office, Choctaw Nation Tribal Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86659",
@@ -36581,7 +36581,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Romulus Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8665e",
@@ -36598,7 +36598,7 @@ state: "OK",
 cause: "Death in custody",
 dept: "Oklahoma City Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86663",
@@ -36615,7 +36615,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Unknown",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86668",
@@ -36632,7 +36632,7 @@ state: "NY",
 cause: "Struck by vehicle",
 dept: "New York Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8666d",
@@ -36649,7 +36649,7 @@ state: "HI",
 cause: "Gunshot",
 dept: "Hawaii Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86672",
@@ -36666,7 +36666,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "San Antonio Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86677",
@@ -36683,7 +36683,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8667c",
@@ -36700,7 +36700,7 @@ state: "IL",
 cause: "Death in custody",
 dept: "Winnebago County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86681",
@@ -36717,7 +36717,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Scottsdale Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86686",
@@ -36734,7 +36734,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8668b",
@@ -36751,7 +36751,7 @@ state: "PA",
 cause: "Death in custody",
 dept: "Temple University Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86690",
@@ -36768,7 +36768,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Stafford County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86695",
@@ -36785,7 +36785,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Elmore County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669a",
@@ -36802,7 +36802,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "West Bloomfield Police Department, Michigan Department of Corrections",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8669f",
@@ -36819,7 +36819,7 @@ state: "WI",
 cause: "Gunshot",
 dept: "Dodge County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a4",
@@ -36836,7 +36836,7 @@ state: "KY",
 cause: "Gunshot",
 dept: "Louisville Metro Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866a9",
@@ -36853,7 +36853,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Pickaway County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ae",
@@ -36870,7 +36870,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Tukwila Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b3",
@@ -36887,7 +36887,7 @@ state: "OK",
 cause: "Gunshot",
 dept: "Tahlequah Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866b8",
@@ -36904,7 +36904,7 @@ state: "AR",
 cause: "Taser",
 dept: "Monticello Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866bd",
@@ -36921,7 +36921,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Lenoir Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c2",
@@ -36938,7 +36938,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Pima County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866c7",
@@ -36955,7 +36955,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento County Sheriff’s Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866cc",
@@ -36972,7 +36972,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d1",
@@ -36989,7 +36989,7 @@ state: "VA",
 cause: "Gunshot",
 dept: "Dinwiddie County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866d6",
@@ -37006,7 +37006,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Orange County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866db",
@@ -37023,7 +37023,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Federal Bureau of Investigation",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e0",
@@ -37040,7 +37040,7 @@ state: "WV",
 cause: "Gunshot",
 dept: "Monongalia County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866e5",
@@ -37057,7 +37057,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "City of Kingman Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ea",
@@ -37074,7 +37074,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Weatherford Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866ef",
@@ -37091,7 +37091,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Los Angeles County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f4",
@@ -37108,7 +37108,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Round Lake Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866f9",
@@ -37125,7 +37125,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Grand Junction Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb866fe",
@@ -37142,7 +37142,7 @@ state: "NE",
 cause: "Gunshot",
 dept: "Douglas County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86703",
@@ -37159,7 +37159,7 @@ state: "GA",
 cause: "Gunshot",
 dept: "Albany Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86708",
@@ -37176,7 +37176,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Shelby County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8670d",
@@ -37193,7 +37193,7 @@ state: "DC",
 cause: "Gunshot",
 dept: "Washington Metropolitan Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86712",
@@ -37210,7 +37210,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Columbus Division of Police",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86717",
@@ -37227,7 +37227,7 @@ state: "VT",
 cause: "Gunshot",
 dept: "Franklin County Sheriff’s Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8671c",
@@ -37244,7 +37244,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Rutherfordton Police Department, Rutherford County Sheriff's Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86721",
@@ -37261,7 +37261,7 @@ state: "UT",
 cause: "Gunshot",
 dept: "Cache County Sheriff's Office",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86726",
@@ -37278,7 +37278,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Charlotte-Mecklenburg Police Department",
 armed: "Disputed",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8672b",
@@ -37295,7 +37295,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Sacramento County Sheriff's Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86730",
@@ -37312,7 +37312,7 @@ state: "ID",
 cause: "Gunshot",
 dept: "Garden City Police Department, Boise Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86735",
@@ -37329,7 +37329,7 @@ state: "PA",
 cause: "Gunshot",
 dept: "Philadelphia Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673a",
@@ -37346,7 +37346,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "Newark Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8673f",
@@ -37363,7 +37363,7 @@ state: "MS",
 cause: "Other",
 dept: "Long Beach City Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86744",
@@ -37380,7 +37380,7 @@ state: "AR",
 cause: "Struck by vehicle",
 dept: "Clay County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86749",
@@ -37397,7 +37397,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Springdale Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8674e",
@@ -37414,7 +37414,7 @@ state: "SC",
 cause: "Gunshot",
 dept: "Berkeley County Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86753",
@@ -37431,7 +37431,7 @@ state: "AR",
 cause: "Gunshot",
 dept: "Benton Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86758",
@@ -37448,7 +37448,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Modesto Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8675d",
@@ -37465,7 +37465,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Westlake Police Department",
 armed: "Non-lethal firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86762",
@@ -37482,7 +37482,7 @@ state: "WA",
 cause: "Gunshot",
 dept: "Seattle Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86767",
@@ -37499,7 +37499,7 @@ state: "NV",
 cause: "Gunshot",
 dept: "Las Vegas Metropolitan Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8676c",
@@ -37516,7 +37516,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "San Francisco Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86771",
@@ -37533,7 +37533,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Pasco County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86776",
@@ -37550,7 +37550,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8677b",
@@ -37567,7 +37567,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Jacksonville Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86780",
@@ -37584,7 +37584,7 @@ state: "AL",
 cause: "Struck by vehicle",
 dept: "Wetumpka Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86785",
@@ -37601,7 +37601,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Modesto Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678a",
@@ -37618,7 +37618,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Carrollton Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8678f",
@@ -37635,7 +37635,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "California Highway Patrol",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86794",
@@ -37652,7 +37652,7 @@ state: "TX",
 cause: "Gunshot",
 dept: "Corpus Christi Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86799",
@@ -37669,7 +37669,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Brookville Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8679e",
@@ -37686,7 +37686,7 @@ state: "LA",
 cause: "Gunshot",
 dept: "Terrebonne Parish Sheriff's Office",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a3",
@@ -37703,7 +37703,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867a8",
@@ -37720,7 +37720,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ad",
@@ -37737,7 +37737,7 @@ state: "NJ",
 cause: "Gunshot",
 dept: "New Jersey State Police",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b2",
@@ -37754,7 +37754,7 @@ state: "KS",
 cause: "Gunshot",
 dept: "Ellis County Sheriff's Office",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867b7",
@@ -37771,7 +37771,7 @@ state: "AZ",
 cause: "Gunshot",
 dept: "Arizona Department of Public Safety",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867bc",
@@ -37788,7 +37788,7 @@ state: "CO",
 cause: "Gunshot",
 dept: "Montrose County Sheriff's Office",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c1",
@@ -37805,7 +37805,7 @@ state: "GA",
 cause: "Death in custody",
 dept: "McDonough Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867c6",
@@ -37822,7 +37822,7 @@ state: "IN",
 cause: "Struck by vehicle",
 dept: "Lawrence Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867cb",
@@ -37839,7 +37839,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Whittier Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d0",
@@ -37856,7 +37856,7 @@ state: "FL",
 cause: "Gunshot",
 dept: "Port St Lucie Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867d5",
@@ -37873,7 +37873,7 @@ state: "NY",
 cause: "Gunshot",
 dept: "New York Police Department",
 armed: "Other",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867da",
@@ -37890,7 +37890,7 @@ state: "CA",
 cause: "Gunshot",
 dept: "Lompoc Police Department",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867df",
@@ -37907,7 +37907,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Durham Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e4",
@@ -37924,7 +37924,7 @@ state: "MI",
 cause: "Gunshot",
 dept: "Ottawa County Sheriff's Office",
 armed: "Knife",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867e9",
@@ -37941,7 +37941,7 @@ state: "MS",
 cause: "Gunshot",
 dept: "Hattiesburg Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867ee",
@@ -37958,7 +37958,7 @@ state: "IL",
 cause: "Gunshot",
 dept: "Chicago Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f3",
@@ -37975,7 +37975,7 @@ state: "MA",
 cause: "Gunshot",
 dept: "Lynn Police Department",
 armed: "Unknown",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867f8",
@@ -37992,7 +37992,7 @@ state: "CA",
 cause: "Death in custody",
 dept: "Elk Grove Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb867fd",
@@ -38009,7 +38009,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Tuscumbia Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86802",
@@ -38026,7 +38026,7 @@ state: "OH",
 cause: "Gunshot",
 dept: "Hudson Police Department",
 armed: "No",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb86807",
@@ -38043,7 +38043,7 @@ state: "AL",
 cause: "Gunshot",
 dept: "Florence Police Department",
 armed: "Firearm",
-__v: 0
+
 },
 {
 id: "596228d1bc4435bc7eb8680c",
@@ -38060,7 +38060,7 @@ state: "NC",
 cause: "Gunshot",
 dept: "Leland Police Department",
 armed: "Firearm",
-__v: 0
+
 }
 ];
 module.exports = stats
