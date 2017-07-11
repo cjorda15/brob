@@ -42,7 +42,6 @@ describe('API Routes', () => {
     })
   });
 
-  //
   beforeEach((done) => {
     knex.migrate.latest()
     .then(() => {
@@ -71,7 +70,6 @@ describe('API Routes', () => {
         res.should.have.status(200)
         res.should.be.json;
         res.body.length.should.equal(2239)
-        console.log(res.body[0])
         done()
       })
   })
