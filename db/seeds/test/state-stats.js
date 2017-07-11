@@ -23,9 +23,10 @@ exports.seed = function(knex, Promise) {
     .then(() => {
       const state = knexStateData(knex)
       const stat = knexStats(knex)
+      const statSpread = [...stat]
 
       return Promise.all([
-        ...state, ...stat
+        ...state.then(() => ...stat)
       ])}
   );
 };

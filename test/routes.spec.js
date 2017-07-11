@@ -112,7 +112,7 @@ describe('API Routes', () => {
        done()
      })
   })
-  
+
   it('should return a filtered cateogry by given query for the stats table', (done) => {
     chai.request(server)
     .get('/api/v1/stats/query/?column=age&type=84')
@@ -120,6 +120,7 @@ describe('API Routes', () => {
 
       res.should.have.status(200)
       res.should.be.json;
+      console.log(res.body[0])
       res.body[0].id.should.equal('596228d1bc4435bc7eb86744')
       res.body[0].name.should.equal('Sadine Dixon')
       res.body[0].age.should.equal('84')
