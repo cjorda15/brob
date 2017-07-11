@@ -117,6 +117,25 @@ router.get('/stats/query', (req, res) => {
    });
 })
 
+router.post('/stats', checkAuth, (req, res) => {
+  let randomId = ""
+
+  const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
+  const {name, age, sex, race, month, day, year, address, city, state, cause, dept, armed, __v } = req.body
+  for (let i =0; i<possible.length; i++ ) {
+    let random = (Math.floor(Math.random()*36))
+    randomId+=  possible[random]
+  }
+  database('stats').insert(
+    randomId, name, age, sex, race, month, day, year, address, city, state, cause, dept, armed, __v
+  ).then(data => {
+    res.status(201).send(data)
+  })
+  .catch(err => res.status(501).send(err))
+
+})
+
+
 router.put('/stats', checkAuth, (req, res) => {
   const {id, column, update} = req.body
 

@@ -24,17 +24,29 @@ ex: api/v1/stats/query?col=armed&by=knife
 --filtered list by request's query through column specified and by value associated with specified column  
 
 POST api/v1/auth
-request body needs in json format as {user:{username:???,password:???}}
+-request body needs in json format as {user:{username:???,password:???}}
 ---!needed for authorized endpoint!---
 
 -- Authorization Required --
 
 PUT api/v1/states/:state/increment
+ex: api/v1/states/CO/increment
+-necessary if you post a new stat on the stat table to reflect the deaths properly
+
 
 PUT api/v1/states/:state/decrement
+ex: api/v1/states/CO/decrement
+--necessary if you delete a stat on the stat table to reflect the deaths properly
 
 PUT api/v1/stats
+ex: api/v1/stats (in the request body-- {"id":"596228d1bc4435bc7eb86805",
+  "column":"race","update":"White")
+--requires in the request body in json format (id) of the stat you wish to update, a (column), and a (update) of the change you like to make it to for the column you specified
 
 DELETE api/v1/state/:state
+ex: api/v1/state/TX
+--deletes all of the states info
 
 DELETE api/v1/stats/:id
+ex: api/v1/stats/596228d1bc4435bc7eb86805
+--deletes stat with the given id
