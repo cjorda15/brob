@@ -27,7 +27,16 @@ POST api/v1/auth
 -request body needs in json format as {user:{username:???,password:???}}
 ---!needed for authorized endpoint!---
 
--- Authorization Required --
+-- Authorization Required With Token --
+
+POST api/v1/stats
+-insert new row into stats table
+requires in the request body in json format a data object containing as properties (all in string type) name, age, sex, race, month, day, year, address, city, state(in uppercase annotated ex: CO), cause, dept, and armed
+
+POST api/v1/states
+--insert a new row into the states table.
+Requires in the request body in json format a data object containing as properties state, people(as a empty array), and deaths (integer type set to 0)
+
 
 PUT api/v1/states/:state/increment
 ex: api/v1/states/CO/increment
