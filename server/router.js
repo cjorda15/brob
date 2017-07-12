@@ -14,7 +14,7 @@ const checkAuth = (req, res, next) => {
   if (token) {
     jwt.verify(token, process.env.CLIENT_SECRET, (err, decoded) => {
       if (err) {
-        return res.status(403).json({
+        return res.status(402).json({
           success: false,
           message: 'Invalid authorization token',
         })
@@ -24,7 +24,7 @@ const checkAuth = (req, res, next) => {
       }
     })
   } else {
-    return res.status(403).json({
+    return res.status(402).json({
       success: false,
       message: 'You must be authorized to hit this endpoint',
     })
@@ -53,6 +53,13 @@ router.get('/states/:state', (req, res) => {
    });
 })
 
+
+router.post('/states', checkAuth, (req, res) => {
+  database('state')
+  .insert(req.body.data)
+  .then(() => res.status(201).send("successful insertion"))
+})
+
 router.put('/states/:state/increment', checkAuth, (req, res) => {
   database('state')
   .where('state', req.params.state)
@@ -66,12 +73,6 @@ router.put('/states/:state/increment', checkAuth, (req, res) => {
   });
 })
 
-router.post('/states', checkAuth, (req, res) => {
-  database('state')
-  .insert(req.body.data)
-  .then(() => res.status(201).send("successful insertion"))
-})
-
 router.put('/states/:state/decrement', checkAuth, (req, res) => {
   database('state')
   .where('state', req.params.state)
@@ -81,7 +82,7 @@ router.put('/states/:state/decrement', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(501).json({error}, "incorrect input")
+    res.status(402).json({error}, "incorrect input")
   });
 })
 
@@ -150,11 +151,11 @@ router.put('/stats', checkAuth, (req, res) => {
      res.status(200).json(update)
    })
    .catch(error => {
-     res.status(422).json({error}, "incorrect input")
+     res.status(501).json({error}, "incorrect input")
    });
 })
 
-router.delete('/stats:id', checkAuth, (req, res) => {
+router.delete('/stats/:id', checkAuth, (req, res) => {
   database('stats')
   .where('id', req.params.id)
   .del()
@@ -170,7 +171,7 @@ router.post('/auth', (req, res) => {
   const {user} = req.body
 
   if (user.username !== process.env.USERNAME || user.password !== process.env.PASSWORD) {
-    res.status(403).send({
+    res.status(402).send({
       success: false,
       message: 'Invalid Credentials',
     })
