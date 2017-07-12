@@ -162,6 +162,31 @@ describe('API Routes', () => {
       done()
     })
   })
-
-  it('should')
 })
+//
+// describe('API Routes', () => {
+//
+//   before((done) => {
+//     knex.migrate.latest()
+//     .then(() => {
+//       knex.seed.run()
+//     })
+//     .then(() => {
+//       done()
+//     })
+//   });
+//
+//   beforeEach((done) => {
+//     knex.migrate.latest()
+//     .then(() => {
+//       knex.seed.run()
+//     })
+//     .then(() => {
+//       done()
+//     })
+//   });
+//
+//
+//
+//
+// })

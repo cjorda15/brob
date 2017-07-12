@@ -31,3 +31,23 @@ exports.seed = function(knex, Promise) {
       ])}
   );
 };
+
+// exports.seed = function(knex, Promise) {
+//   return knex('stats').del()
+//   .then(() => knex('state').del())
+//     .then(() => { return Promise.all([
+//       Object.keys(stateData).map((state) => {
+//         return knex('state').insert(
+//            stateData[state]
+//           )
+//       })
+//       .then(() => {
+//         return Object.keys(stats).map((row) => {
+//           return knex('stats').insert(
+//             stats[row]
+//            );
+//         })
+//       })
+//     ])
+//     })
+// }
