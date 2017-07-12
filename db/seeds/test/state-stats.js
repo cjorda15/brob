@@ -26,11 +26,38 @@ exports.seed = function(knex, Promise) {
       const statSpread = [...stat]
 
       return Promise.all([
-        ...state
-        .then(() => ...stat)
+        ...state, ...stat
       ])}
   );
 };
+
+
+
+
+// exports.seed = function(knex, Promise) {
+//   return knex('stats').del()
+//   .then(() => knex('state').del())
+//     .then(() => {
+//       const state = knexStateData(knex)
+//       const stat = knexStats(knex)
+//       const statSpread = [...stat]
+//
+//       return Promise.all([
+//         ...state
+//         .then(() => {
+//           return [...stat]
+//         })
+//       ])}
+//   );
+// };
+
+
+
+
+
+
+
+
 
 // exports.seed = function(knex, Promise) {
 //   return knex('stats').del()
