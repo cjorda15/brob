@@ -26,7 +26,8 @@ exports.seed = function(knex, Promise) {
       const statSpread = [...stat]
 
       return Promise.all([
-        ...state.then(() => ...stat)
+        ...state
+        .then(() => ...stat)
       ])}
   );
 };

@@ -135,11 +135,20 @@ describe('API Routes', () => {
       res.body[0].cause.should.equal('Struck by vehicle')
       res.body[0].dept.should.equal('Clay County Sheriff\'s Office')
       res.body[0].armed.should.equal('No')
-
-
       done()
     })
-
   })
 
+  it('should receive a token with the proper info', (done) => {
+    chai.request(server)
+    .post('/api/v1/auth')
+    .send({user: {username: "foo", password: "bar"}})
+    .end((err, res) => {
+      res.should.have.status(200)
+      res.should.be.json;
+      res.body.success.should.equal(true)
+      res.body.username.should.equal('foo')
+      done()
+    })
+  })
 })
