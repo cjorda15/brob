@@ -139,7 +139,7 @@ describe('API Routes', () => {
     })
   })
 
-  it('should receive a token with the proper info', (done) => {
+  it('should receive a status of success for receiving a token with the proper info', (done) => {
     chai.request(server)
     .post('/api/v1/auth')
     .send({user: {username: "foo", password: "bar"}})
@@ -151,4 +151,17 @@ describe('API Routes', () => {
       done()
     })
   })
+
+  it('should not receive a status of success for receiving a token with  improper info', (done) => {
+    chai.request(server)
+    .post('/api/v1/auth')
+    .send({user: {username: "username", password: "password"}})
+    .end((err, res) => {
+      res.should.have.status(403)
+      res.should.be.json;
+      done()
+    })
+  })
+
+  it('should')
 })
