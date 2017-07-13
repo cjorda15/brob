@@ -16,7 +16,7 @@ app.use(bodyParser.json());
 app.set('port', process.env.PORT ||3000)
 
 app.get('/', (req, res) => {
-  res.status(200).send("Hello")
+  res.status(200).sendFile(path.join(__dirname,'/../README.md'))
 })
 
 app.use('/api/v1', router)
