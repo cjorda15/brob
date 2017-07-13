@@ -46,7 +46,7 @@ router.get('/states/:state', (req, res) => {
     'state': req.params.state
   })
   .then(state => {
-    if(!state[0].id){
+    if (!state[0].id) {
       res.status(404).send("No info on this state, make sure it is in the form of the intitals of the state (ex:  api/v1/states/CO)")
     }
     res.status(200).json(state);
@@ -138,8 +138,10 @@ router.post('/stats', checkAuth, (req, res) => {
 
   const possible = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789';
   let {data} = req.body
+
   for (let i =0; i<25; i++ ) {
     let random = (Math.floor(Math.random()*36))
+    
     randomId+=  possible[random]
   }
   data.id=randomId
