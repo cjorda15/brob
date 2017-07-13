@@ -43,24 +43,15 @@ describe('API Routes', () => {
   //   });
 
   before((done) => {
-    knex.migrate.latest()
-    .then(() => {
-      knex.seed.run()
-    })
-    .then(() => {
-      done()
-    })
+    knex.migrate.latest().then(()=> done())
   });
 
   beforeEach((done) => {
-    knex.migrate.latest()
-    .then(() => {
-      knex.seed.run()
-    })
+    knex.seed.run()
     .then(() => {
       done()
-    })
-  });
+    });
+  })
 
   it('should return all of the states data', (done) => {
     chai.request(server)
@@ -153,25 +144,15 @@ describe('API Routes with tokens', () => {
   let token;
 
   before((done) => {
-    knex.migrate.latest()
-    .then(() => {
-      knex.seed.run()
-    })
-    .then(() => {
-      done()
-    })
+    knex.migrate.latest().then(()=> done())
   });
 
   beforeEach((done) => {
-    knex.migrate.latest()
-    .then(() => {
-      knex.seed.run()
-    })
+    knex.seed.run()
     .then(() => {
       done()
-    })
-  });
-
+    });
+  })
   // before((done) => {
   //     knex.migrate.latest()
   //     .then(() => done());

@@ -46,6 +46,9 @@ router.get('/states/:state', (req, res) => {
     'state': req.params.state
   })
   .then(state => {
+    if(!state[0].id){
+      res.status(404).send("No info on this state, make sure it is in the form of the intitals of the state (ex:  api/v1/states/CO)")
+    }
     res.status(200).json(state);
   })
    .catch(error => {
@@ -55,9 +58,15 @@ router.get('/states/:state', (req, res) => {
 
 
 router.post('/states', checkAuth, (req, res) => {
+  const check = req.body.data
+
+  // if (!check.state||!check.people||check.deaths!==0||check.people!==[]||check.state.length!==2) {
+  //   console.log(check.people!==[])
+  //   res.status(200).send("unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0")
+  // }
   database('state')
   .insert(req.body.data)
-  .then(() => res.status(201).send("successful insertion"))
+  .then((data) => res.status(201).send("successful insertion"))
 })
 
 router.put('/states/:state/increment', checkAuth, (req, res) => {
@@ -69,7 +78,7 @@ router.put('/states/:state/increment', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(501).json({error}, "incorrect input")
+    res.status(200).json({error}, "incorrect input")
   });
 })
 
