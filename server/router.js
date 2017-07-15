@@ -5,11 +5,14 @@ const environment = process.env.NODE_ENV || 'development';
 const configuration = require(__dirname + '/../knexfile.js')[environment];
 const database = require('knex')(configuration);
 const jwt = require('jsonwebtoken')
+// const pg = require('pg').native
 
 const checkAuth = (req, res, next) => {
   const token = req.body.token ||
                 req.query.token ||
                 req.headers['authorization']
+
+
 
   if (token) {
     jwt.verify(token, process.env.CLIENT_SECRET, (err, decoded) => {
