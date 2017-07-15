@@ -195,7 +195,7 @@ describe('API Routes with tokens', () => {
     chai.request(server)
     .post('/api/v1/states')
     .send(
-      {token:"grr", data: {state: "ZZ", people: [], deaths: 0}}
+      {token: "grr", data: {state: "ZZ", people: [], deaths: 0}}
     )
     .end((err, res) => {
       res.should.have.status(402)

@@ -62,8 +62,9 @@ router.get('/states/:state', (req, res) => {
 
 router.post('/states', checkAuth, (req, res) => {
   const check = req.body.data
-  if(!check.state||!check.people||check.deaths!=0||check.people.length!==0|| !Array.isArray(check.people)||check.state.length!==2) {
-    res.status(200).send({message:"unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0"})
+  
+  if (!check.state||!check.people||check.deaths!=0||check.people.length!==0|| !Array.isArray(check.people)||check.state.length!==2) {
+    res.status(200).send({message: "unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0"})
   }
   database('state')
   .insert(req.body.data)
