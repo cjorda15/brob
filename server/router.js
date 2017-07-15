@@ -59,11 +59,9 @@ router.get('/states/:state', (req, res) => {
 
 router.post('/states', checkAuth, (req, res) => {
   const check = req.body.data
-
-  // if (!check.state||!check.people||check.deaths!==0||check.people!==[]||check.state.length!==2) {
-  //   console.log(check.people!==[])
-  //   res.status(200).send("unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0")
-  // }
+  if(!check.state||!check.people||check.deaths!=0||check.people.length!==0|| !Array.isArray(check.people)||check.state.length!==2) {
+    res.status(200).send({message:"unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0"})
+  }
   database('state')
   .insert(req.body.data)
   .then((data) => res.status(201).send("successful insertion"))
@@ -78,7 +76,7 @@ router.put('/states/:state/increment', checkAuth, (req, res) => {
     res.sendStatus(200)
   })
   .catch(error => {
-    res.status(200).json({error}, "incorrect input")
+    res.status(402).json({error}, "incorrect input")
   });
 })
 
@@ -141,7 +139,7 @@ router.post('/stats', checkAuth, (req, res) => {
 
   for (let i =0; i<25; i++ ) {
     let random = (Math.floor(Math.random()*36))
-    
+
     randomId+=  possible[random]
   }
   data.id=randomId
@@ -150,7 +148,6 @@ router.post('/stats', checkAuth, (req, res) => {
   })
   .catch(err => res.status(501).send(err))
 })
-
 
 router.put('/stats', checkAuth, (req, res) => {
   const {id, column, update} = req.body

@@ -153,16 +153,6 @@ describe('API Routes with tokens', () => {
       done()
     });
   })
-  // before((done) => {
-  //     knex.migrate.latest()
-  //     .then(() => done());
-  //   });
-  //
-  //   beforeEach((done) => {
-  //     knex.seed.run()
-  //     .then(() => done());
-  //   });
-
 
   it('should receive a status of success for receiving a token with the proper info', (done) => {
     chai.request(server)
@@ -205,7 +195,7 @@ describe('API Routes with tokens', () => {
     chai.request(server)
     .post('/api/v1/states')
     .send(
-      {token: "NO WAY", data: {state: "ZZ", people: [], deaths: 0}}
+      {token:"grr", data: {state: "ZZ", people: [], deaths: 0}}
     )
     .end((err, res) => {
       res.should.have.status(402)
@@ -328,5 +318,62 @@ describe('API Routes with tokens', () => {
       done()
     })
   })
+
+})
+
+describe('API Routes with sad paths', () => {
+  let token;
+
+  before((done) => {
+    knex.migrate.latest().then(()=> done())
+  });
+
+  beforeEach((done) => {
+    knex.seed.run()
+    .then(() => {
+      done()
+    });
+  })
+
+
+  it('should receive a status of success for receiving a token with the proper info', (done) => {
+    chai.request(server)
+    .post('/api/v1/auth')
+    .send({user: {username: "foo", password: "bar"}})
+    .end((err, res) => {
+      res.should.have.status(200)
+      res.should.be.json;
+      token=res.body.token
+      res.body.success.should.equal(true)
+      res.body.username.should.equal('foo')
+      done()
+    })
+  })
+
+
+  // it('should not insert a new state without proper info', (done) => {
+  //   chai.request(server)
+  //   .post('/api/v1/states')
+  //   .send(
+  //     {token, data: {state: "ZZZ", people: [], deaths: 0}}
+  //   )
+  //   .end((err, res) => {
+  //     res.should.have.status(200)
+  //     res.body.message.should.equal('unsuccesful insertion, make sure you included in your request body a data object containing (state) with only two characters, (people) set to a empty array and (deaths) set to 0')
+  //     done()
+  //   })
+  // })
+
+  // it('should not increment the states table with improper info', (done) => {
+  //   chai.request(server)
+  //   .put('/api/v1/states/WOO/increment')
+  //   .send({token})
+  //   .end((err, res) => {
+  //     res.should.have.status(402)
+  //     console.log(res.body)
+  //     done()
+  //   })
+  // })
+
 
 })

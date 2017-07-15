@@ -9,6 +9,7 @@ const database = require('knex')(configuration);
 const router = require('./router')
 
 
+
 app.use(cors());
 app.use(bodyParser.urlencoded({ extended: true }));
 app.use(bodyParser.json());
@@ -20,6 +21,7 @@ app.get('/', (req, res) => {
 })
 
 app.use('/api/v1', router)
+.set('Accept', 'application/json')
 
 app.listen(app.get('port'), () => {
   console.log("app is on port "+ app.get('port'))
